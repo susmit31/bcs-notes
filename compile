@@ -5,6 +5,7 @@ echo "library(rmarkdown); render('$1.Rmd', output_file='$1.pdf')" | R --vanilla 
  sed "s#\\\frame{titlepage}#\\\frame{titlepage}\n\\\begin{frame}{Table of contents}\n\\\setbeamertemplate{section in toc}\[sections numbered\]\n\\\tableofcontents\n\\\end{frame}#" "$1.tex" > tmp &&
  mv tmp "$1.tex" &&
  xelatex "$1.tex" &&
+ ls | grep -P "orgs\.(?!(Rmd|tex|pdf))" | xargs -I _ rm _ &&
  ls | grep *.pdf | xargs -I _ mv _ ./pdfs/_ &&
  echo "Done!"
 # pandoc -s -f markdown -t beamer "$1.Rmd" -o "$1.tex"

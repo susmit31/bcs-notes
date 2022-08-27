@@ -13,10 +13,12 @@ header-includes:
   - \renewlist{itemize}{itemize}{20}
   - \renewlist{enumerate}{enumerate}{20}
   - \setlist[itemize]{label=$\cdot$}
-  - \setlist[itemize,1]{label=\textbullet}
-  - \setlist[itemize,2]{label=--}
-  - \setlist[itemize,3]{label=*}
+  - \setlist[itemize,1]{label=\tiny$\blacktriangleright$}
+  - \setlist[itemize,2]{label=$\boldsymbol\circ$}
+  - \setlist[itemize,3]{label=$\bullet$}
+  - \setlist[itemize,4]{label=\tiny$\blacksquare$}
 ---
+# Hello world
 
 # Commonwealth of Nations
 - **Intro:** political organisation, largely composed of former British
