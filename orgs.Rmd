@@ -1,15 +1,17 @@
 ---
 title: International Organisations
+subtitle: The Bare Minimum for BCS
 author: Susmit Islam
+institute: Sir Salimullah Medical College
 documentclass:
  beamer
 output:
  beamer_presentation:
   keep_tex: yes
-classoption: t
 theme: metropolis
-fontsize: 8pt
+fontsize: 10pt
 header-includes:
+  - \setbeamersize{text margin left=10mm,text margin right=10mm}
   - \usepackage{enumitem}
   - \setlistdepth{20}
   - \renewlist{itemize}{itemize}{20}
@@ -19,8 +21,9 @@ header-includes:
   - \setlist[itemize,2]{label=$\bullet$}
   - \setlist[itemize,3]{label=$\boldsymbol\circ$}
   - \setlist[itemize,4]{label=$*$}
-  - \linespread{1.5}
+  - \linespread{1.3}
 ---
+<!--classoption: t-->
 
 # Commonwealth of Nations
 - **Intro:** political organisation, largely composed of former British
@@ -107,4 +110,7 @@ header-includes:
 			- Location: Frankfurt, Germany
 			- Members: ECB President and Vice-President
 			 and governors of national central banks from all EU countries
-		- 
+
+
+# AU (African Union)
+- **Intro:**
