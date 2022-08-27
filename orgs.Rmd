@@ -6,7 +6,7 @@ output:
  beamer_presentation:
   keep_tex: yes
 theme: metropolis
-fontsize: 12pt
+fontsize: 10pt
 header-includes:
   - \usepackage{enumitem}
   - \setlistdepth{20}
@@ -87,20 +87,20 @@ header-includes:
 - **HQ:** Brussels, Belgium.
 - **Structure:**
 	- 7 institutions, 1st 4 are the main decision-making institutions
-		- European Parliament
+		- \underline{European Parliament}
 			- Location: Strasbourg (France), Brussels, Luxembourg
 			- Members: 705 MEPs (members of European parliament)
-		- European Council
+		- \underline{European Council}
 			- Location: Brussels
 			- Members: Heads of state of EU member countries
 			- President: Charles Michel
-		- Council of the EU:
+		- \underline{Council of the EU}
 			- Location: Brussels
 			- Members: Ministers of EU member countries
-		- European Commission
-		- Court of Justice of the EU
+		- \underline{European Commission}
+		- \underline{Court of Justice of the EU}
 			- Location: Luxembourg
-		- European Central Bank
+		- \underline{European Central Bank}
 			- Location: Frankfurt, Germany
 			- Members: ECB President and Vice-President
 			 and governors of national central banks from all EU countries
