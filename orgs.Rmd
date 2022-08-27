@@ -1,0 +1,60 @@
+---
+title: International Organisations
+author: Susmit Islam
+documentclass: article
+output:
+ pdf_document:
+  extra_dependencies: ["palatino"]
+fontsize: 12pt
+geometry: margin=2cm
+colorlinks: true
+linkcolor: blue
+urlcolor: blue
+toccolor: gray
+---
+
+
+\renewcommand{\labelitemi}{$\blacktriangleright$}
+\renewcommand{\labelitemii}{$\boldsymbol\circ$}
+\renewcommand{\labelitemiii}{$\bullet$}
+\renewcommand{\labelitemiv}{\tiny$\blacksquare$}
+
+\tableofcontents
+
+# Commonwealth of Nations
+- **Intro:** political organisation, largely composed of former British
+ colonies
+- **Establishment:**
+	- **Balfour declaration:** $\rightarrow$ "British Commonwealth of Nations" (1926)
+	- Statute of Westminster (1931) made the dominions their own sovereign
+	 states
+	- **London declaration** $\rightarrow$ "Commonwealth of Nations" (1949)
+- **Members:** 56
+	- **Latest members:** Togo, Gabon (2022)
+	- The last 4 members are the only ones that have never been British
+	 colonies
+		- Mozambique (1st non-colony member; 2009)
+		- Rwanda (2009)
+		- Togo (2022)
+		- Gabon (2022)
+- **HQ:** Marlborough house, London.
+- **Head:** Queen Elizabeth II.
+
+# NAM (Non-Aligned Movement)
+- **Intro:** Formed during the Cold War by countries supporting neither the
+ Soviet nor the US.
+- **Establishment:** 1961; Belgrade, Yugoslavia.
+- **Members:** 120 members, 20 observers.
+- **HQ:** None
+
+# OIC (Organisation of Islamic Co-operation)
+- **Intro:** Made in the wake of the Arab-Israel war
+- **Establishment:**
+	- Sep 25, 1969, as Organisation of Islamic Conference
+	- Changed to current name in 2011
+- **Members:** 57
+- **HQ:** Jeddah
+- **1st sec. gen.:** Tunku Abdul Rahman (Malaysia)
+- **Current sec. gen.:** Hissein Brahim Taha (Chad)
+
+# 

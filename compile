@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "library('rmarkdown'); render('$1.Rmd', output_file='$1.tex'); require(tinytex); pdflatex('$1.tex')" | R --vanilla
+ls | grep *.pdf | xargs -I _ mv _ ./pdfs/_
+echo "Done!"
