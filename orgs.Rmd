@@ -8,17 +8,18 @@ output:
   keep_tex: yes
 classoption: t
 theme: metropolis
-fontsize: 10pt
+fontsize: 8pt
 header-includes:
   - \usepackage{enumitem}
   - \setlistdepth{20}
   - \renewlist{itemize}{itemize}{20}
   - \renewlist{enumerate}{enumerate}{20}
-  - \setlist[itemize]{label=$\cdot$}
+  - \setlist[itemize]{label=$*$}
   - \setlist[itemize,1]{label=\tiny$\blacksquare$}
   - \setlist[itemize,2]{label=$\bullet$}
   - \setlist[itemize,3]{label=$\boldsymbol\circ$}
-  - \setlist[itemize,4]{label=--}
+  - \setlist[itemize,4]{label=$*$}
+  - \linespread{1.5}
 ---
 
 # Commonwealth of Nations
@@ -89,20 +90,20 @@ header-includes:
 - **HQ:** Brussels, Belgium.
 - **Structure:**
 	- 7 institutions, 1st 4 are the main decision-making institutions
-		- \underline{European Parliament}
+		- \fbox{European Parliament}
 			- Location: Strasbourg (France), Brussels, Luxembourg
 			- Members: 705 MEPs (members of European parliament)
-		- \underline{European Council}
+		- \fbox{European Council}
 			- Location: Brussels
 			- Members: Heads of state of EU member countries
 			- President: Charles Michel
-		- \underline{Council of the EU}
+		- \fbox{Council of the EU}
 			- Location: Brussels
 			- Members: Ministers of EU member countries
-		- \underline{European Commission}
-		- \underline{Court of Justice of the EU}
+		- \fbox{European Commission}
+		- \fbox{Court of Justice of the EU}
 			- Location: Luxembourg
-		- \underline{European Central Bank}
+		- \fbox{European Central Bank}
 			- Location: Frankfurt, Germany
 			- Members: ECB President and Vice-President
 			 and governors of national central banks from all EU countries

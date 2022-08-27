@@ -3,7 +3,7 @@
 \PassOptionsToPackage{hyphens}{url}
 %
 \documentclass[
-  10pt,
+  8pt,
   ignorenonframetext,
   t]{beamer}
 \usepackage{pgfpages}
@@ -91,11 +91,12 @@
 \setlistdepth{20}
 \renewlist{itemize}{itemize}{20}
 \renewlist{enumerate}{enumerate}{20}
-\setlist[itemize]{label=$\cdot$}
+\setlist[itemize]{label=$*$}
 \setlist[itemize,1]{label=\tiny$\blacksquare$}
 \setlist[itemize,2]{label=$\bullet$}
 \setlist[itemize,3]{label=$\boldsymbol\circ$}
-\setlist[itemize,4]{label=--}
+\setlist[itemize,4]{label=$*$}
+\linespread{1.5}
 
 \title{International Organisations}
 \author{Susmit Islam}
@@ -290,43 +291,54 @@
     7 institutions, 1st 4 are the main decision-making institutions
 
     \begin{itemize}
-    \tightlist
     \item
-      \underline{European Parliament}
+      \fbox{European Parliament}
 
       \begin{itemize}
       \tightlist
       \item
         Location: Strasbourg (France), Brussels, Luxembourg
-      \item
-        Members: 705 MEPs (members of European parliament)
+
+        \begin{itemize}
+        \tightlist
+        \item
+          Members: 705 MEPs (members of European parliament)
+        \end{itemize}
       \end{itemize}
     \item
-      \underline{European Council}
+      \fbox{European Council}
 
       \begin{itemize}
       \tightlist
       \item
         Location: Brussels
-      \item
-        Members: Heads of state of EU member countries
-      \item
-        President: Charles Michel
+
+        \begin{itemize}
+        \tightlist
+        \item
+          Members: Heads of state of EU member countries
+        \item
+          President: Charles Michel
+        \end{itemize}
       \end{itemize}
     \item
-      \underline{Council of the EU}
+      \fbox{Council of the EU}
 
       \begin{itemize}
       \tightlist
       \item
         Location: Brussels
-      \item
-        Members: Ministers of EU member countries
+
+        \begin{itemize}
+        \tightlist
+        \item
+          Members: Ministers of EU member countries
+        \end{itemize}
       \end{itemize}
     \item
-      \underline{European Commission}
+      \fbox{European Commission}
     \item
-      \underline{Court of Justice of the EU}
+      \fbox{Court of Justice of the EU}
 
       \begin{itemize}
       \tightlist
@@ -334,15 +346,19 @@
         Location: Luxembourg
       \end{itemize}
     \item
-      \underline{European Central Bank}
+      \fbox{European Central Bank}
 
       \begin{itemize}
       \tightlist
       \item
         Location: Frankfurt, Germany
-      \item
-        Members: ECB President and Vice-President and governors of
-        national central banks from all EU countries
+
+        \begin{itemize}
+        \tightlist
+        \item
+          Members: ECB President and Vice-President and governors of
+          national central banks from all EU countries
+        \end{itemize}
       \end{itemize}
     \item
     \end{itemize}
