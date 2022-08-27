@@ -3,8 +3,7 @@ title: International Organisations
 subtitle: The Bare Minimum for BCS
 author: Susmit Islam
 institute: Sir Salimullah Medical College
-documentclass:
- beamer
+documentclass: beamer
 output:
  beamer_presentation:
   keep_tex: yes
