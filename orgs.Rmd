@@ -1,10 +1,12 @@
 ---
 title: International Organisations
 author: Susmit Islam
-documentclass: beamer
+documentclass:
+ beamer
 output:
  beamer_presentation:
   keep_tex: yes
+classoption: t
 theme: metropolis
 fontsize: 10pt
 header-includes:
@@ -104,4 +106,4 @@ header-includes:
 			- Location: Frankfurt, Germany
 			- Members: ECB President and Vice-President
 			 and governors of national central banks from all EU countries
-			- 
+		- 
