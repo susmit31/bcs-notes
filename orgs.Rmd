@@ -57,4 +57,24 @@ toccolor: gray
 - **1st sec. gen.:** Tunku Abdul Rahman (Malaysia)
 - **Current sec. gen.:** Hissein Brahim Taha (Chad)
 
-# 
+# EU (European Union)
+- **Intro:**
+	- World's largest economic union
+	- Political and economic union, with an internal single market
+	- After the end of the Cold War and the unification of Germany,
+	 to "further advance European integration"
+- **Establishment:**
+	- **Treaty of Rome:** (1957)
+		- Established **European Economic Community (EEC)**
+		- Signed by 6 countries: Belgium, France, Netherlands, W. Germany,
+		 Italy, Luxembourg
+		- Signed: Mar 25, 1957
+		- Effective: Jan 1, 1958
+		- After formation of EU, renamed to European Community (EC)
+		- Was one of the "3 pillars" of EU till 2009, when the 3-pillar system
+		 was abolished and the functions of the pillars were absorbed into EU
+	- **Treaty of Maastricht:** (1992; Maastricht, Netherlands)
+		- Signed by 12 countries marking the beginning of EU
+		- Signed: Feb 7, 1992.
+		- Effective: Nov 1, 1993.
+- **Members:** 27
