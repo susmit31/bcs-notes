@@ -1,25 +1,22 @@
 ---
 title: International Organisations
 author: Susmit Islam
-documentclass: article
+documentclass: beamer
 output:
- pdf_document:
-  extra_dependencies: ["palatino"]
+ beamer_presentation:
+  keep_tex: yes
+theme: metropolis
 fontsize: 12pt
-geometry: margin=2cm
-colorlinks: true
-linkcolor: blue
-urlcolor: blue
-toccolor: gray
+header-includes:
+  - \usepackage{enumitem}
+  - \setlistdepth{20}
+  - \renewlist{itemize}{itemize}{20}
+  - \renewlist{enumerate}{enumerate}{20}
+  - \setlist[itemize]{label=$\cdot$}
+  - \setlist[itemize,1]{label=\textbullet}
+  - \setlist[itemize,2]{label=--}
+  - \setlist[itemize,3]{label=*}
 ---
-
-
-\renewcommand{\labelitemi}{$\blacktriangleright$}
-\renewcommand{\labelitemii}{$\boldsymbol\circ$}
-\renewcommand{\labelitemiii}{$\bullet$}
-\renewcommand{\labelitemiv}{\tiny$\blacksquare$}
-
-\tableofcontents
 
 # Commonwealth of Nations
 - **Intro:** political organisation, largely composed of former British
@@ -77,4 +74,33 @@ toccolor: gray
 		- Signed by 12 countries marking the beginning of EU
 		- Signed: Feb 7, 1992.
 		- Effective: Nov 1, 1993.
+	- **Treaty of Lisbon:** (2007)
+		- Initially called "Reform Treaty"
+		- Amendment of the Maastricht treaty
+		- Signed: Dec 13, 2007
+		- Effective: Dec 1, 2009
+		- Abolished the 3-pillar system and marked the emergence of the EU
+		 as a legal person
+		 - In 2012, the EU received the Nobel Peace Prize
 - **Members:** 27
+- **HQ:** Brussels, Belgium.
+- **Structure:**
+	- 7 institutions, 1st 4 are the main decision-making institutions
+		- European Parliament
+			- Location: Strasbourg (France), Brussels, Luxembourg
+			- Members: 705 MEPs (members of European parliament)
+		- European Council
+			- Location: Brussels
+			- Members: Heads of state of EU member countries
+			- President: Charles Michel
+		- Council of the EU:
+			- Location: Brussels
+			- Members: Ministers of EU member countries
+		- European Commission
+		- Court of Justice of the EU
+			- Location: Luxembourg
+		- European Central Bank
+			- Location: Frankfurt, Germany
+			- Members: ECB President and Vice-President
+			 and governors of national central banks from all EU countries
+			- 
