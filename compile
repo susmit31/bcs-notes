@@ -1,6 +1,8 @@
 #!/bin/bash
 echo "library(rmarkdown); render('$1.Rmd', output_file='$1.pdf')" | R --vanilla &&
- sed "s#\\\begin{frame}#\\\begin{frame}\[allowframebreaks\]#g" "$1.tex" > tmp &&
+ sed "s#\\\begin{frame}{\(.*\)}#\\\section{\1}\\\begin{frame}\[allowframebreaks\]{\1}#g" "$1.tex" > tmp &&
+ mv tmp "$1.tex" &&
+ sed "s#\\\end{frame}#\\\end{frame}\n\\\end{section}#g" "$1.tex" > tmp &&
  mv tmp "$1.tex" &&
  sed "s#\\\frame{titlepage}#\\\frame{titlepage}\n\\\begin{frame}{Table of contents}\n\\\setbeamertemplate{section in toc}\[sections numbered\]\n\\\tableofcontents\n\\\end{frame}#" "$1.tex" > tmp &&
  mv tmp "$1.tex" &&
