@@ -55,3 +55,42 @@ What follows are my own notes on English Literature for BCS. There probably
 	- Epic poem
 	- Author was anonymous
 	- **$\boldsymbol\approx \textbf{3200}$ lines**
+
+# Middle English (1066-1500)
+- Famous authors:
+	- **Geoffrey Chaucer** aka _father of English poetry_
+	- Thomas Malory
+	- Robert Henryson
+
+# Renaissance (1500-1660)
+- **4 subperiods:**
+	- **Mnemonic:** \banglatext{লিজা যাবে কারে করে} 
+- **Elizabethan** (1558-1603)
+	- Replete with lyrics and songs
+	- **Golden age of English drama**
+	- **Famous authors:**
+		- Christopher Marlowe
+		- Shakespeare
+		- Francis Bacon
+		- Edmund Spenser
+		- John Lyly
+- **Jacobean** (1603-1625)
+	- Reign of James I $\rightarrow$ Jacobean era
+	- **Famous authors:**
+		- John Donne
+		- Michael Drayton
+		- Ben Johnson
+		- Elizabeth Cary
+- **Caroline** (1625-1649)
+	- Reign of Charles I ("Carolus") $\rightarrow$ Caroline era
+	- **Famous authors:**
+		- John Milton
+		- Robert Burton
+		- George Herbert
+- **Commonwealth** (1650-1660)
+	- **Famous authors:**
+		- John Milton
+		- Thomas Hobbes
+		- Thomas Fuller
+		- Abraham Cowley
+		- Andrew Marvell
