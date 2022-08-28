@@ -261,7 +261,8 @@ What follows are my notes on International Organisations.
 - **Members:** 21
 - **HQ:** Singapore
 
-# CIRDAP (Centre on Integrated Rural Development for Asia and the Pacific)
+# CIRDAP
+- Centre on Integrated Rural Development for Asia and the Pacific
 - **Intro:** _Bangladesh based_ organisation for rural development and
  poverty alleviation
 - **Establishment:**
@@ -273,3 +274,5 @@ What follows are my notes on International Organisations.
 - **HQ:** Chameli house, Dhaka (in front of the Supreme Court)
 - **Director General:** Dr Cherdsak Virapat (Thailand)
 
+# ACU (Asian Clearing Union)
+- **Established:** Dec 9, 1974
