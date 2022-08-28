@@ -108,7 +108,51 @@ header-includes:
 			- Location: Frankfurt, Germany
 			- Members: ECB President and Vice-President
 			 and governors of national central banks from all EU countries
-
+- **Euro:**
+	- "Members":
+		- 19 member states, together called **eurozone / euro area**, have adopted
+		 the euro as their primary currency.
+		- Croatia will become the 20th member on Jan 1, 2023
+		- Other EU members can join the eurozone when they fulfill the criteria
+		 for joining
+	- Launch:
+		- Jan 1, 1999
+		- 11 member states had met the criteria back then, and hence those
+		 11 were the firsts to adopt the euro
+		- Physical notes and coins were launched on Jan 1, 2002.
 
 # AU (African Union)
-- **Intro:**
+- **Establishment:**
+	- **OAU (Organisation of African Unity)** $\rightarrow$ May 25, 1963
+	- **Sirte declaration** $\rightarrow$ Sep 9, 1999 (9/9/99); signed by
+	 heads of OAU states
+	- **AU** officially launched in Jul 9, 2002.
+- **Members:** 55
+	- **Latest member:** Morocco (2017)
+	- All African nations are members
+	- Morocco was a founding member of OAU, but quit in 1984 due to the
+	 acceptance of Sahrawi Arab Democratic Republic as a member state,
+	 most of the territory of which is ruled by Morocco. Nonetheless,
+	 it is a partially recognised sovereign state, with 41 UN nations
+	 recognising it.
+- **HQ:** Addis Ababa.
+- **Chairperson:** Macky Sall (President of Senegal)
+
+# Arab League
+- **Establishment:**
+	- **Alexandria protocol** (1945) $\rightarrow$ **Arab league** (Mar 22, 1945)
+- **Members:**
+	- Member states: 22
+	- Observer states: 7
+		- Armenia
+		- Brazil
+		- Chad
+		- Eritrea
+		- Greece
+		- India
+		- Venezuela
+	- Latest member: Comoros (1993)
+	- Suspended member: Syria (since 2011)
+- **Probably unrelated fact:** Egypt and Syria formed the **United Arab
+ Republic** in 1958 (capital: Cairo). In 1961, Syria quit the union, and
+ Egypt continued to be officially known as the UAR until 1971. 
