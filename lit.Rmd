@@ -25,3 +25,17 @@ header-includes:
   - \setlist[itemize,4]{label=$*$}
   - \linespread{1.3}
 ---
+# Preface {-}
+What follows are my own notes on English Literature for BCS. There probably
+ are plenty of mistakes, and I apologise if anyone reading this has found one.
+ These notes have been made, first and foremost, for personal use, so
+ verify anything that seems off (or better, even anything that doesn't).
+ Let me know of the errors. 
+
+ **Use at your own peril.**
+
+\hfill Susmit Islam
+
+\hfill \today
+
+# Periods
