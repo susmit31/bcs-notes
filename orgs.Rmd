@@ -220,15 +220,14 @@ What follows are my notes on International Organisations.
 # D-8 (Developing 8)
 - **Establishment:**
 	- **Istanbul declaration** (Jun 15, 1997) $\rightarrow$ D-8
-- **Members:** 8
-	- Mnemonic: \banglatext{বাপ মা নাই তুমিই সব}
-		- Bangladesh
-		- Pakistan
-		- Malaysia
-		- Nigeria
-		- Turkey
-		- Egypt (\banglatext{মিশর})
-		- Iran
+- **Members:** 8 states. Mnemonic: \banglatext{বাপ মা নাই তুমিই সব}
+	- Bangladesh
+	- Pakistan
+	- Malaysia
+	- Nigeria
+	- Turkey
+	- Egypt (\banglatext{মিশর})
+	- Iran
 - **HQ:** Istanbul
 
 # OPEC (Organisation of Petroleum Exporting Countries)
@@ -274,5 +273,49 @@ What follows are my notes on International Organisations.
 - **HQ:** Chameli house, Dhaka (in front of the Supreme Court)
 - **Director General:** Dr Cherdsak Virapat (Thailand)
 
-# ACU (Asian Clearing Union)
-- **Established:** Dec 9, 1974
+# ASEAN
+- Association of South East Asian Nations
+- **Establishment:**
+	- Bangkok declaration / ASEAN declaration:
+		- Aug 8, 1967
+		- Signed by founding 5: Indonesia, Malaysia, Philippines, Singapore,
+		 Thailand
+- **Members:** 10 countries. Mnemonic: MTV \banglatext{তে} FILM \banglatext{দেখলে}
+ BCS \banglatext{হবেনা}
+	- Malaysia
+	- Thailand
+	- Vietnam
+	- Philippines
+	- Indonesia
+	- Laos
+	- Myanmar
+	- Brunei
+	- Cambodia
+	- Singapore
+- **HQ:** Jakarta
+- **Summit:** Every 3 yrs.		
+
+# SAARC
+- South Asian Association for Regional Cooperation
+- **Establishment:**
+	- Dec 8, 1985: signing of SAARC declaration
+- **Members:** 8 members, 9 observers.
+	- Members mnemonic: BNP IS MBA.
+		- Bangladesh
+		- Nepal
+		- Pakistan
+		- India
+		- Sri Lanka
+		- Maldives
+		- Bhutan
+		- Afghanistan
+	- Latest member: AFG (2007)
+- **HQ:** Kathmandu
+- **Summit:**
+	- No specific interval, although the official charter requires a summit
+	 every 18 mo
+	- First summit: Dec 7-8, 1985
+	- Latest (20th): 2022 (to be held)
+- **Sec. Gen.:**
+	- 1st: Abul Ahsan (BD)
+	- Current: Esala Ruwan Weerakoon (SL)
