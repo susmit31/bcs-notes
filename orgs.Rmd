@@ -58,9 +58,13 @@ What follows are my notes on International Organisations.
 - **Head:** Queen Elizabeth II.
 
 # NAM (Non-Aligned Movement)
-- **Intro:** Formed during the Cold War by countries supporting neither the
- Soviet nor the US.
-- **Establishment:** 1961; Belgrade, Yugoslavia.
+- **Intro:**
+	- Formed during the Cold War by countries supporting neither the
+	 Soviet nor the US
+	- 2nd largest international organisation after the UN
+- **Establishment:**
+	- 1961; Belgrade, Yugoslavia
+	- Based on **Bandung Conference** (Bandung, Indonesia; 1955)
 - **Members:** 120 members, 20 observers.
 - **HQ:** None
 
@@ -177,12 +181,17 @@ What follows are my notes on International Organisations.
 - **Members:** 35
 	- All independent nations of the Americas are members
 	- Founding members: 21
-	- Latest member: Guayana (1991)
+	- Latest member: Guyana (1991)
 
 # GCC (Gulf Cooperation Council)
 - **Intro:** Union of countries bordering the Persian gulf
 - **Establishment:** May 25, 1981
-- **Members:** Bahrain, Kuwait, Oman, Qatar, KSA, UAE
+- **Members:** Mnemonic: **BOKKSU**
+	- Bahrain
+	- Oman
+	- Kuwait
+	- Qatar
+	- UAE
 - **HQ:** Riyadh
 
 # G-7 (Group of 7)
@@ -240,6 +249,7 @@ What follows are my notes on International Organisations.
 		- KSA
 		- Kuwait
 		- Venezuela
+	- OPEC was initally proposed by Venezuela
 - **Members:** 13
 	- Founding 5
 	- Other current members:
@@ -335,10 +345,19 @@ What follows are my notes on International Organisations.
 
 # BENELUX
 - Belgium, Netherlands, Luxembourg Economic Cooperation
+- Western European countries
 - **Establishment:**
 	- Benelux customs union treaty:
-		- Signed on Sep 5, 1944
-		- Effective from Jan 1, 1948
+		- Signed: Sep 5, 1944
+		- Effective: Jan 1, 1948
+	- Benelux economic union treaty:
+		- Signed: Feb 3, 1958
+		- Effective: 1960
+	- Treaty revising the Benelux Econ. Union treaty:
+		- Signed: 2008 (previous treaty was limited to 50y i.e. till 2010,
+		 this one has no expiration)
+		- Effective: 2012
+		 
 
 # ECO (Economic Cooperation Organisation)
 - **Establishment:**
@@ -355,4 +374,5 @@ What follows are my notes on International Organisations.
 - **Members:** 38
 - **HQ:** Paris
 - **Sec. Gen.:** Mathias Cormann (Australia)
-	
+- In Jul 2021, an OECD-promoted taxation policy called **global minimum
+ corporate tax** was adopted by 136 nations
