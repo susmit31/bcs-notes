@@ -25,6 +25,19 @@ header-includes:
   - \setlist[itemize,4]{label=$*$}
   - \linespread{1.3}
 ---
+# Preface {-}
+What follows are my notes on International Organisations.
+ Many of these things change quite frequently
+ and so these notes may be out of date when you read them. Proceed with caution.
+ There's probably plenty of mistakes, all my own.
+ Inform me whenever you find one.\newline
+ 
+**Use at your own peril.**
+
+\hfill Susmit Islam
+
+\hfill\today
+ 
 # Commonwealth of Nations
 - **Intro:** political organisation, largely composed of former British
  colonies
@@ -247,3 +260,16 @@ header-includes:
 - **Establishment:** 1989
 - **Members:** 21
 - **HQ:** Singapore
+
+# CIRDAP (Centre on Integrated Rural Development for Asia and the Pacific)
+- **Intro:** _Bangladesh based_ organisation for rural development and
+ poverty alleviation
+- **Establishment:**
+	- Date: Jul 6, 1979
+	- Initiative by countries in the Asia-Pacific region and FAO of the UN
+- **Members:**
+	- Founding 6
+	- Currently 15
+- **HQ:** Chameli house, Dhaka (in front of the Supreme Court)
+- **Director General:** Dr Cherdsak Virapat (Thailand)
+
