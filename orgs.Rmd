@@ -323,7 +323,7 @@ What follows are my notes on International Organisations.
 # BIMSTEC
 - Bay of Bengal Initiative for Multi-Sectorial Technical and Economic
  Cooperation
--**Establishment:**
+- **Establishment:**
 	- Jun 6, 1997: started as "BIST-EC" (BD, IND, SL, Thailand Economic Coop)
 	- Dec 22, 1997: Myanmar joined, renamed to "BIMST-EC"
 	- Jul 31, 2004: 1st summit; Nepal and Bhutan joined. Renamed to
