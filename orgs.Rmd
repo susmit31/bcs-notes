@@ -12,6 +12,8 @@ classoption: progressbar=frametitle
 fontsize: 10pt
 header-includes:
   - \setbeamersize{text margin left=10mm,text margin right=10mm}
+  - \setbeamertemplate{frametitle continuation}{}
+  - \usepackage{bangla}
   - \usepackage{enumitem}
   - \setlistdepth{20}
   - \renewlist{itemize}{itemize}{20}
@@ -156,3 +158,92 @@ header-includes:
 - **Probably unrelated fact:** Egypt and Syria formed the **United Arab
  Republic** in 1958 (capital: Cairo). In 1961, Syria quit the union, and
  Egypt continued to be officially known as the UAR until 1971. 
+
+# OAS (Organization of American States)
+- **Establishment:** Apr 30, 1948.
+- **Members:** 35
+	- All independent nations of the Americas are members
+	- Founding members: 21
+	- Latest member: Guayana (1991)
+
+# GCC (Gulf Cooperation Council)
+- **Intro:** Union of countries bordering the Persian gulf
+- **Establishment:** May 25, 1981
+- **Members:** Bahrain, Kuwait, Oman, Qatar, KSA, UAE
+- **HQ:** Riyadh
+
+# G-7 (Group of 7)
+- **Intro:** Avengers, basically. Big-shot governments join forces to
+ discuss and coordinate solutions to major global issues in trade,
+ security, economics, and climate change.
+- **Members:** 7
+	- USA
+	- Canada
+	- UK
+	- Germany
+	- France
+	- Italy
+	- Japan
+- **Establishment:**
+	- Mar 25, 1973 $\rightarrow$ G5
+	- Nov 15, 1975 $\rightarrow$ G6 (Italy added)
+	- 1976 $\rightarrow$ G7 (Canada added)
+	- 1997 $\rightarrow$ G8 (Russia added)
+	- 2014 $\rightarrow$ G7 (Russia suspended over annexation of Crimea)
+- **HQ:** None
+
+# G-20
+- **Intro:** "the primary venue for international economic and financial
+ cooperation"
+- **Establishment:** Sep 26, 1999.
+- **Members:** 20
+	- 19 countries + the EU
+		- G-7 countries (7)
+		- BRICS countries (5): Brazil, Russia, India, China, South Africa
+		- Others (7): ARG, AUS, KSA, KOR (Republic of Korea aka South Korea),
+		 MEX, IDN (Indonesia), TUR (Turkey)
+- **HQ:** None
+
+# D-8 (Developing 8)
+- **Establishment:**
+	- **Istanbul declaration** (Jun 15, 1997) $\rightarrow$ D-8
+- **Members:** 8
+	- Mnemonic: \banglatext{বাপ মা নাই তুমিই সব}
+		- Bangladesh
+		- Pakistan
+		- Malaysia
+		- Nigeria
+		- Turkey
+		- Egypt (\banglatext{মিশর})
+		- Iran
+- **HQ:** Istanbul
+
+# OPEC (Organisation of Petroleum Exporting Countries)
+- **Intro:** Control oil prices worldwide. Responsible for 44% of the total
+ oil production worldwide.
+- **Establishment:**
+	- Through Baghdad conference (Sep 10-14, 1960), attended by the founding 5
+		- Iraq
+		- Iran
+		- KSA
+		- Kuwait
+		- Venezuela
+- **Members:** 13
+	- Founding 5
+	- Other current members:
+		- Algeria
+		- Angola
+		- Congo
+		- Equatorial Guinea
+		- Gabon
+		- Libya
+		- Nigeria
+		- UAE
+	- Former members: Ecuador, Indonesia, Qatar
+- **HQ:** Vienna
+
+# APEC (Asia-Pacific Economic Co-operation)
+- **Intro:** Promotes free trade throughout countries in the pacific rim
+- **Establishment:** 1989
+- **Members:** 21
+- **HQ:** Singapore

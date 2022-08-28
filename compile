@@ -3,10 +3,10 @@
 pandoc -s -f markdown -t beamer "$1.Rmd" -o "$1.tex" > /dev/null &&
  sed "s#\\\begin{frame}{\(.*\)}#\\\section{\1}\n\\\begin{frame}\[allowframebreaks\]\n{\1}#g" "$1.tex" > tmp &&
  mv tmp "$1.tex" &&
- sed "s#\\\frame{\\\titlepage}#\\\frame{\\\titlepage}\n\\\begin{frame}{Table of contents}\\\setbeamertemplate{section in toc}\[sections numbered\]\n\n\\\tableofcontents\[hideallsubsections\]\n\\\end{frame}#" "$1.tex" > tmp &&
+ sed "s#\\\frame{\\\titlepage}#\\\frame{\\\titlepage}\n\\\begin{frame}\[t,allowframebreaks\]{Table of contents}\\\setbeamertemplate{section in toc}\[sections numbered\]\n\n\\\tableofcontents\[hideallsubsections\]\n\\\end{frame}#" "$1.tex" > tmp &&
  mv tmp "$1.tex" &&
- xelatex "$1.tex" > /dev/null &&
- xelatex "$1.tex" > /dev/null  &&
+ xelatex "$1.tex" &&
+ xelatex "$1.tex" &&
 # echo "library('tinytex'); pdflatex('$1.tex')" | R --vanilla
  ls | grep -P "$1\.(?!(Rmd|tex|pdf))" | xargs -I _ rm _ &&
  ls | grep *.pdf | xargs -I _ mv _ ./pdfs/_ &&
