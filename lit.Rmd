@@ -39,7 +39,6 @@ What follows are my own notes on English Literature for BCS. There probably
 \hfill \today
 
 # Periods of English Literature
-- **8 periods**
 - **Mnemonic:** \banglatext{অমি রান্না নিয়ে রুমি ভাই এর মন পেল}
 	- Old age / Anglo-Saxon period
 	- Middle age
