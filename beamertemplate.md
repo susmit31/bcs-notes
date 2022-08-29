@@ -24,4 +24,5 @@ header-includes:
   - \setlist[itemize,3]{label=$\boldsymbol\circ$}
   - \setlist[itemize,4]{label=$*$}
   - \linespread{1.3}
+  - \setlength{\fboxsep}{10pt}
 ---
