@@ -12,7 +12,7 @@ classoption: progressbar=frametitle
 fontsize: 12pt
 header-includes:
   - \setbeamersize{text margin left=10mm,text margin right=10mm}
-  - \setbeamertemplate{frametitle continuation}{\usebeamerfont{frametitle}\insertcontinuationcount}
+  - \setbeamertemplate{frametitle continuation}{- \usebeamerfont{frametitle}\insertcontinuationcount}
   - \usepackage{bangla}
   - \usepackage{enumitem}
   - \setlistdepth{20}
