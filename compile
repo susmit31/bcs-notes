@@ -10,6 +10,7 @@ pandoc -s -f markdown -t beamer "$1.Rmd" -o "$1.tex" > /dev/null &&
  mv tmp "$1.tex" &&
  xelatex "$1.tex" &&
  xelatex "$1.tex" > /dev/null &&
+ xelatex "$1.tex" > /dev/null &&
 # echo "library('tinytex'); pdflatex('$1.tex')" | R --vanilla
  ls | grep -P "$1\.(?!(Rmd|tex|pdf))" | xargs -I _ rm _ &&
  ls | grep *.pdf | xargs -I _ mv _ ./pdfs/_ &&

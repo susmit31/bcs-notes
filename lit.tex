@@ -88,7 +88,9 @@
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{-\maxdimen} % remove section numbering
 \setbeamersize{text margin left=10mm,text margin right=10mm}
-\setbeamertemplate{frametitle continuation}{- \usebeamerfont{frametitle}\insertcontinuationcount}
+\makeatletter
+\setbeamertemplate{frametitle continuation}{- \usebeamerfont{frametitle}\insertcontinuationcount/\the\numexpr\beamer@endpageofframe+1-\beamer@startpageofframe}
+\makeatother
 \usepackage{bangla}
 \usepackage{enumitem}
 \setlistdepth{20}
