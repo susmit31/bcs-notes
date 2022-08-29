@@ -26,3 +26,15 @@ header-includes:
   - \linespread{1.3}
   - \setlength{\fboxsep}{10pt}
 ---
+# Preface {-}
+What follows are my own notes on DOCTITLE. There probably
+ are plenty of mistakes, and I apologise if anyone reading this has found any.
+ These notes have been made, first and foremost, for personal use, so
+ verify anything that seems off (or better, even anything that doesn't).
+ Let me know of the errors. 
+
+ **Use at your own peril.**
+
+\hfill Susmit Islam
+
+\hfill \today
