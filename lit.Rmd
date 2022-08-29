@@ -24,6 +24,7 @@ header-includes:
   - \setlist[itemize,3]{label=$\boldsymbol\circ$}
   - \setlist[itemize,4]{label=$*$}
   - \linespread{1.3}
+  - \setlength{\fboxsep}{10pt}
 ---
 # Preface {-}
 What follows are my own notes on English Literature for BCS. There probably
@@ -132,4 +133,32 @@ What follows are my own notes on English Literature for BCS. There probably
 - Charles Lamb
 
 # Victorian (1832-1901)
-- **
+
+\fbox{\parbox{.9\textwidth}{\textbf{Poets:}
+\begin{itemize}
+	\item Alfred Tennyson
+	\item Matthew Arnold
+	\item Robert and Elizabeth Barrett Browning
+\end{itemize}
+}}
+
+\fbox{\parbox{.9\textwidth}{\textbf{Essayists:}
+\begin{itemize}
+	\item Thomas Carlyle
+	\item John Ruskin
+	\item Walter Pater
+\end{itemize}
+}}
+
+\fbox{\parbox{.9\textwidth}{\textbf{IDKs:}
+\begin{itemize}
+	\item Dickens
+	\item Bronte Sisters
+	\item Elizabeth Gaskell
+	\item George Eliot (penname of Mary Ann Evans)
+	\item Anthony Trollope
+	\item Thomas Hardy
+	\item William Makepeace Thackeray
+	\item Samuel Butler
+\end{itemize}
+}}
