@@ -158,7 +158,7 @@ What follows are my own notes on English Literature for BCS. There probably
 \end{itemize}
 }}
 
-\fbox{\parbox{.9\textwidth}{\textbf{IDKs:}
+\fbox{\parbox{.9\textwidth}{\textbf{Novelists:}
 \begin{itemize}
 	\item Dickens
 	\item Bronte Sisters
@@ -167,6 +167,6 @@ What follows are my own notes on English Literature for BCS. There probably
 	\item Anthony Trollope
 	\item Thomas Hardy
 	\item William Makepeace Thackeray
-	\item Samuel Butler
+	\item Samuel Butler (there's also a Restoration era poet by the same name)
 \end{itemize}
 }}
