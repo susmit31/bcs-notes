@@ -62,9 +62,14 @@ What follows are my own notes on English Literature for BCS. There probably
 
 
 # Middle English (1066-1500)
-- **Geoffrey Chaucer** aka _father of English poetry_
-- Thomas Malory
-- Robert Henryson
+\fbox{\parbox{.9\textwidth}{\textbf{Famous authors:}
+\begin{itemize}
+ \item \textbf{Geoffrey Chaucer} aka \textit{father of English poetry}
+ \item Thomas Malory
+ \item Robert Henryson
+
+\end{itemize}	
+}}
 
 # Renaissance (1500-1660)
 - **4 subperiods:**
@@ -73,6 +78,7 @@ What follows are my own notes on English Literature for BCS. There probably
 	- Replete with lyrics and songs
 	- **Golden age of English drama/literature**
 	- **Famous authors:**
+		- Mnemonic: \banglatext{লিলি মার সাথে ফ্রান্স স্পেনে ঘুরছে}
 		- Christopher Marlowe
 		- Shakespeare
 		- Francis Bacon
