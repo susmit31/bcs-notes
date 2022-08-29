@@ -12,7 +12,9 @@ classoption: progressbar=frametitle
 fontsize: 12pt
 header-includes:
   - \setbeamersize{text margin left=10mm,text margin right=10mm}
-  - \setbeamertemplate{frametitle continuation}{}
+  - \makeatletter
+  - \setbeamertemplate{frametitle continuation}{- \usebeamerfont{frametitle}\insertcontinuationcount/\the\numexpr\beamer@endpageofframe+1-\beamer@startpageofframe}
+  - \makeatother
   - \usepackage{bangla}
   - \usepackage{enumitem}
   - \setlistdepth{20}
@@ -24,6 +26,7 @@ header-includes:
   - \setlist[itemize,3]{label=$\boldsymbol\circ$}
   - \setlist[itemize,4]{label=$*$}
   - \linespread{1.3}
+  - \setlength{\fboxsep}{10pt}
 ---
 # Preface {-}
 What follows are my notes on International Organisations.
