@@ -1,0 +1,33 @@
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.8.28)  30 AUG 2022 22:29
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**lit.tex
+(./lit.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-08-23>
+Runaway argument?
+ 12pt, 
+! Paragraph ended before \@fileswith@ptions was complete.
+<to be read again> 
+                   \par 
+l.7 
+    
+? 
+! Emergency stop.
+<to be read again> 
+                   \par 
+l.7 
+    
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 21 strings out of 475848
+ 388 string characters out of 5801585
+ 308050 words of memory out of 5000000
+ 21206 multiletter control sequences out of 15000+600000
+ 469259 words of font info for 28 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 14i,0n,22p,82b,10s stack positions out of 10000i,1000n,20000p,200000b,200000s
+No pages of output.

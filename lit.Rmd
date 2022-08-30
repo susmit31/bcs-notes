@@ -187,12 +187,14 @@ What follows are my own notes on English Literature for BCS. There probably
 
 ```{=latex}
 \end{frame}
+
 {
-\setbeamercolor{palette primary}{bg=black, fg=yellow}
+\setbeamercolor{palette primary}{fg=black,bg=yellow}
 \begin{frame}[standout]
   Important Authors and Literary Works
 \end{frame}
 }
+\section{}
 \begin{frame}<0>
 ```
 
