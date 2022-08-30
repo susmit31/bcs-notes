@@ -309,9 +309,9 @@ What follows are my own notes on English Literature for BCS. There probably
 \fbox{\parbox{.7\textwidth}{
 	\footnotesize
 	\vspace{-2mm}
-	\begin{columns}[T, totalwidth=.75\textwidth]
+	\begin{columns}[T, totalwidth=.8\textwidth]
 	\hspace{-3mm}
-	\column{.35\textwidth}
+	\column{.4\textwidth}
 		\begin{itemize}\tightlist
 			\item The Good Morrow
 			\item The Sun Rising
