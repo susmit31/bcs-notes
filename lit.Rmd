@@ -386,3 +386,60 @@ What follows are my own notes on English Literature for BCS. There probably
 	}}
 \end{columns}
 \normalsize
+
+```{=latex}
+\end{frame}
+\outstandingmove{The Neoclassical}
+\begin{frame}<0>
+```
+
+# Restoration Period
+
+\blockhead{William Congreve}
+
+- His comedy is known as **"comedy of manners"** (Ben Johnson $\rightarrow$
+ _"comedy of humours"_)
+- Notable works:
+	- The Way of the World
+	- Love for Love
+	- The Double Dealer
+	- The Old Bachelor
+
+\vspace{10mm}
+\blockhead{John Dryden}
+
+- **Father of English criticism**
+- Notable works:
+
+\hspace{5mm}
+\fbox{\parbox{.8\textwidth}{
+	\vspace{-2mm}
+	\begin{columns}[T, totalwidth=.8\textwidth]
+	\hspace{-3mm}
+	\column{.4\textwidth} 
+	\footnotesize
+	\begin{itemize}\tightlist
+		\item All for Love
+		\item The Indian Emperor
+		\item Aurang-zebe
+		\item The Mistaken Husband 
+		\item Absalom and Achitophel
+	\end{itemize}
+	\column{.4\textwidth}
+	\footnotesize
+	\begin{itemize}\tightlist
+		\item Macflecknoe
+		\item The Essay of Dramatic Poesy
+		\item The Conquest of Granada
+		\item The Medal of John Bays
+	\end{itemize}
+	\end{columns}
+}}
+
+\vspace{10mm}
+\blockhead{Samuel Butler}
+
+- English novelist
+- Notable works: Hudibras (famous satire in verse)
+
+
