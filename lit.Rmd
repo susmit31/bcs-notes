@@ -436,7 +436,7 @@ What follows are my own notes on English Literature for BCS. There probably
 	\end{columns}
 }}
 
-\vspace{10mm}
+\vspace{15mm}
 \blockhead{Samuel Butler}
 
 - English novelist
