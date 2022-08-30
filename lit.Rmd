@@ -27,6 +27,7 @@ header-includes:
   - \setlist[itemize,4]{label=$*$}
   - \linespread{1.3}
   - \setlength{\fboxsep}{10pt}
+  - \newcommand{\blockhead}[1]{\large\textbf{#1}\normalsize\vspace{-3mm}}
 ---
 # Preface {-}
 What follows are my own notes on English Literature for BCS. There probably
@@ -81,7 +82,12 @@ What follows are my own notes on English Literature for BCS. There probably
 	- **Golden age of English drama/literature**
 	- **Famous authors:**
 		- Mnemonic: \banglatext{লিলি মার সাথে ফ্রান্স স্পেনে ঘুরছে}
-		- Christopher Marlowe
+		- Christopher Marlowe and other _"University Wits"_:
+			- Robert Greene
+			- Thomas Nashe
+			- Thomas Lodge
+			- George Peele
+			- John Lyly
 		- Shakespeare
 		- Francis Bacon
 		- Edmund Spenser
@@ -177,3 +183,72 @@ What follows are my own notes on English Literature for BCS. There probably
 \end{itemize}
 \end{columns}
 }}
+
+
+```{=latex}
+\end{frame}
+{
+\setbeamercolor{palette primary}{fg=black, bg=yellow}
+\begin{frame}[standout]
+  Important Authors and Literary Works
+\end{frame}
+}
+\begin{frame}<0>
+```
+
+# Middle English Period
+## Geoffrey Chaucer
+- Notable works:
+	- The Canterbury Tales
+	- The Nun Priest's Tale
+	- The Parliament of Fowls
+	- The Legend of Good Women
+
+## John Wycliffe
+- English theologian, philosopher etc
+- **First translated the Bible from Latin**
+- **"Father of English Prose"
+
+# Elizabethan Period
+\blockhead{Edmund Spenser}
+
+- **"Poet of poets"**
+- Famous poems:
+	- The Faerie Queen (epic)
+	- Amoretti (sonnets)
+	- Colin Clouts Came Home Again
+	- Mother Hubberd's Tale
+	- Complaints
+	- Epithalamion
+	- The Shepherd's Calendar
+
+
+\blockhead{Christopher Marlowe}
+
+- "Shakespeare's most important predecessor"
+- "Greatest dramatist before Shakespeare"
+- **Father of English tragedy**
+- Notable works:
+	- Plays:
+		- Dr Faustus
+		- The Jew of Malta
+		- You Can Never Tell
+		- Tamburlaine the Great
+	- Poetry:
+		- Pharsalia
+		- The Passionate Shepherd to His Love
+		- Amores
+
+\blockhead{Shakespeare}
+
+- Birth: 1564, Death: 1616
+- 37 plays, 154 sonnets
+
+\blockhead{John Lyly}
+
+- Notable works:
+	- Euphues ("bears the embryo of English novel")
+	- Campaspe
+	- Sapho and Phao
+	- Midas
+
