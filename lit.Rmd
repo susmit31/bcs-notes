@@ -113,6 +113,7 @@ What follows are my own notes on English Literature for BCS. There probably
 	- Andrew Marvell
 
 # Neoclassical (1660-1785)
+- Slogan: **"Art for man's sake"**
 - **3 subperiods**
 - **Restoration** (1660-1700)
 	- William Congreve
@@ -137,14 +138,16 @@ What follows are my own notes on English Literature for BCS. There probably
 	- Thomas Perry
 
 # Romantic (1800-1832)
-- Wordsworth
-- Coleridge
-- Keats
-- Blake
-- Shelley (Percy Bysshe and Mary)
-- Byron
-- Jane Austen
-- Charles Lamb
+- Slogan: **"Art for art's sake"**
+- **Famous authors:**
+	- Wordsworth
+	- Coleridge
+	- Keats
+	- Blake
+	- Shelley (Percy Bysshe and Mary)
+	- Byron
+	- Jane Austen
+	- Charles Lamb
 
 # Victorian (1832-1901)
 
@@ -222,6 +225,12 @@ What follows are my own notes on English Literature for BCS. There probably
 - English theologian, philosopher etc
 - **First translated the Bible from Latin**
 - **"Father of English Prose"**
+
+```{=latex}
+\end{frame}
+\outstandingmove{The Renaissance}
+\begin{frame}<0>
+```
 
 # Elizabethan Period
 \blockhead{Edmund Spenser}
