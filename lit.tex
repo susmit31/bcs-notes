@@ -455,14 +455,16 @@ anything that doesn't). Let me know of the errors.
 
 \end{frame}
 
+\newcommand{\outstandingmove}[1]{
 \definecolor{springgreen}{RGB}{0, 255, 127}
 {
 \setbeamercolor{palette primary}{fg=black,bg=springgreen}
 \begin{frame}[standout]
-  Important Authors and Literary Works
+ #1
 \end{frame}
-}
+}}
 
+\outstandingmove{Important Authors and Literary Works}
 
 
 \section{The Firsts}
@@ -621,6 +623,25 @@ anything that doesn't). Let me know of the errors.
     Midas
   \end{itemize}
 \end{itemize}
+
+\vspace{5mm}
+\large\textbf{Sir Philip Sidney}\normalsize\vspace{-3mm}
+
+\begin{itemize}
+\tightlist
+\item
+  Notable works:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Arcadia (``embryo of English novel'')
+  \item
+    The Lady of May
+  \item
+    An Apology for Poetry
+  \end{itemize}
+\end{itemize}
 \end{frame}
 
 \section{Commonwealth Period}
@@ -666,35 +687,33 @@ anything that doesn't). Let me know of the errors.
   ``A great master of verse in the Puritan period''
 \item
   Notable works:
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Epic:
-
-    \begin{itemize}
-    \tightlist
-    \item
-      \textbf{Paradise Lost}
-    \item
-      Paradise Regained
-    \end{itemize}
-  \item
-    Others:
-
-    \begin{itemize}
-    \tightlist
-    \item
-      Comus
-    \item
-      Lycidas (an elegy)
-    \item
-      Of Education
-    \item
-      Areopagitica
-    \end{itemize}
-  \end{itemize}
 \end{itemize}
+
+\vspace{3mm}
+\footnotesize
+\begin{columns}[t, totalwidth=\textwidth]
+    \column{.45\textwidth}
+    \fbox{\parbox{.9\textwidth}{
+     \textbf{Epic:}\vspace{-3mm}
+        \begin{itemize}
+            \tightlist
+            \item \textbf{Paradise Lost}
+            \item Paradise Regained
+        \end{itemize}
+    }}
+    \column{.45\textwidth}
+     \fbox{\parbox{.9\textwidth}{
+        \textbf{Others:}\vspace{-3mm}
+        \begin{itemize}
+            \tightlist
+            \item Comus
+            \item Lycidas (an elegy)
+            \item Of Education
+            \item Areopagitica
+        \end{itemize}
+    }}
+\end{columns}
+\normalsize
 \end{frame}
 
 \end{document}

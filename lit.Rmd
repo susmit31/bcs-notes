@@ -188,15 +188,18 @@ What follows are my own notes on English Literature for BCS. There probably
 ```{=latex}
 \end{frame}
 
+\newcommand{\outstandingmove}[1]{
 \definecolor{springgreen}{RGB}{0, 255, 127}
 {
 \setbeamercolor{palette primary}{fg=black,bg=springgreen}
 \begin{frame}[standout]
-  Important Authors and Literary Works
+ #1
 \end{frame}
-}
-\section{}
+}}
+
+\outstandingmove{Important Authors and Literary Works}
 \begin{frame}<0>
+
 ```
 # The Firsts
 - **Tragedy:** **Gorboduc** (authors: Thomas Norton and Thomas
@@ -284,6 +287,15 @@ What follows are my own notes on English Literature for BCS. There probably
 	- Sapho and Phao
 	- Midas
 
+\vspace{5mm}
+\blockhead{Sir Philip Sidney}
+
+- Notable works:
+	- Arcadia ("embryo of English novel")
+	- The Lady of May
+	- An Apology for Poetry
+
+
 # Commonwealth Period
 
 \blockhead{Andrew Marvell}
@@ -304,11 +316,29 @@ What follows are my own notes on English Literature for BCS. There probably
 - Famous **epic poet**
 - "A great master of verse in the Puritan period"
 - Notable works:
-	- Epic:
-		- **Paradise Lost**
-		- Paradise Regained
-	- Others:
-		- Comus
-		- Lycidas (an elegy)
-		- Of Education
-		- Areopagitica
+
+\vspace{3mm}
+\footnotesize
+\begin{columns}[t, totalwidth=\textwidth]
+	\column{.45\textwidth}
+	\fbox{\parbox{.9\textwidth}{
+	 \textbf{Epic:}\vspace{-3mm}
+		\begin{itemize}
+			\tightlist
+			\item \textbf{Paradise Lost}
+			\item Paradise Regained
+		\end{itemize}
+	}}
+	\column{.45\textwidth}
+	 \fbox{\parbox{.9\textwidth}{
+	 	\textbf{Others:}\vspace{-3mm}
+		\begin{itemize}
+			\tightlist
+			\item Comus
+			\item Lycidas (an elegy)
+			\item Of Education
+			\item Areopagitica
+		\end{itemize}
+	}}
+\end{columns}
+\normalsize
