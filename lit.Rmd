@@ -310,9 +310,17 @@ What follows are my own notes on English Literature for BCS. There probably
 
 \blockhead{John Donne}
 
-- One of the **metaphysical poets**, others are: Henry Vaughan, Andrew
- Marvell, John Cleveland, Abraham Cowley, George Herbert, Richard Crashaw
+- One of the **metaphysical poets**, others are:
+	- Henry Vaughan
+	- Andrew Marvell
+	- John Cleveland
+	- Abraham Cowley
+	- George Herbert
+	- Richard Crashaw
 - Other epithets: **"poet of love", "religious poet"**
+
+\vspace{10mm}
+
 - Notable works:
 
 \hspace{6mm}
@@ -338,7 +346,7 @@ What follows are my own notes on English Literature for BCS. There probably
 		\end{itemize}
 	\end{columns}
 }}
-
+\vspace{35mm}
 
 \blockhead{John Webster}
 
