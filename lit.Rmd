@@ -207,7 +207,7 @@ What follows are my own notes on English Literature for BCS. There probably
 ## John Wycliffe
 - English theologian, philosopher etc
 - **First translated the Bible from Latin**
-- **"Father of English Prose"
+- **"Father of English Prose"**
 
 # Elizabethan Period
 \blockhead{Edmund Spenser}
@@ -229,15 +229,30 @@ What follows are my own notes on English Literature for BCS. There probably
 - "Greatest dramatist before Shakespeare"
 - **Father of English tragedy**
 - Notable works:
-	- Plays:
-		- Dr Faustus
-		- The Jew of Malta
-		- You Can Never Tell
-		- Tamburlaine the Great
-	- Poetry:
-		- Pharsalia
-		- The Passionate Shepherd to His Love
-		- Amores
+
+\vspace{3mm}
+\begin{columns}[t, totalwidth=\textwidth]
+	\column{.45\textwidth}
+	\fbox{\parbox{.9\textwidth}{
+		\textbf{Plays:}
+		\begin{itemize}
+			\item Dr Faustus
+			\item The Jew of Malta
+			\item You Can Never Tell
+			\item Tamburlaine the Great
+		\end{itemize}
+	}}
+	\column{.45\textwidth}
+	\fbox{\parbox{.9\textwidth}{
+		\textbf{Poetry:}
+			\begin{itemize}
+				\item Pharsalia
+				\item The Passionate Shepherd to His Love
+				\item Amores
+			\end{itemize}
+	}}
+\end{columns}
+
 
 \blockhead{Shakespeare}
 
