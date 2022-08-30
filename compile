@@ -6,11 +6,12 @@ pandoc -s -f markdown -t beamer "$1.Rmd" -o "$1.tex" > /dev/null &&
  mv tmp "$1.tex" &&
  sed -e "s#\\\section{Preface}##" -e "s#\\\section{}##g" -e "s#\\\begin{block}{\(.*\)}#\\\subsection{\1}#g" -e "s#\\\end{block}##g" "$1.tex" > tmp &&
  mv tmp "$1.tex" &&
+ sed -z "s#\\\begin{frame}<0>\n\\\end{frame}##g" > tmp &&
+ mv tmp "$1.tex" &&
 # python3 allowframebreaks.py $1 &&
  sed "s#\\\frame{\\\titlepage}#\\\frame{\\\titlepage}\n\\\begin{frame}\[t,allowframebreaks\]\n{Table of contents}\\\setbeamertemplate{section in toc}\[sections numbered\]\n\n\\\tableofcontents\[hideallsubsections\]\n\\\end{frame}#" "$1.tex" > tmp &&
  mv tmp "$1.tex" &&
  xelatex "$1.tex" &&
- xelatex "$1.tex" > /dev/null &&
  xelatex "$1.tex" > /dev/null &&
  xelatex "$1.tex" > /dev/null &&
 # echo "library('tinytex'); pdflatex('$1.tex')" | R --vanilla
