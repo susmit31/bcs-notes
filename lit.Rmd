@@ -197,14 +197,16 @@ What follows are my own notes on English Literature for BCS. There probably
 ```
 
 # Middle English Period
-## Geoffrey Chaucer
+\blockhead{Geoffrey Chaucer}
+
 - Notable works:
 	- The Canterbury Tales
 	- The Nun Priest's Tale
 	- The Parliament of Fowls
 	- The Legend of Good Women
 
-## John Wycliffe
+\blockhead{John Wycliffe}
+
 - English theologian, philosopher etc
 - **First translated the Bible from Latin**
 - **"Father of English Prose"**
