@@ -284,3 +284,31 @@ What follows are my own notes on English Literature for BCS. There probably
 	- Sapho and Phao
 	- Midas
 
+# Commonwealth Period
+
+\blockhead{Andrew Marvell}
+
+- Notable works:
+	- To His Coy Mistress
+	- The Definition of Love
+	- The Rehearsal Transposed
+	- The Garden
+
+\blockhead{Thomas Hobbes}
+
+- **Political philosopher**
+- Notable work: **Leviathan**
+
+\blockhead{John Milton}
+
+- Famous **epic poet**
+- "A great master of verse in the Puritan period"
+- Notable works:
+	- Epic:
+		- **Paradise Lost**
+		- Paradise Regained
+	- Others:
+		- Comus
+		- Lycidas (an elegy)
+		- Of Education
+		- Areopagitica
