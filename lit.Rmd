@@ -319,8 +319,9 @@ What follows are my own notes on English Literature for BCS. There probably
 
 \vspace{3mm}
 \footnotesize
-\begin{columns}[t, totalwidth=\textwidth]
-	\column{.45\textwidth}
+\begin{columns}[T, totalwidth=.9\textwidth]
+	\hspace{5mm}
+	\column{.4\textwidth}
 	\fbox{\parbox{.9\textwidth}{
 	 \textbf{Epic:}\vspace{-3mm}
 		\begin{itemize}
@@ -329,7 +330,8 @@ What follows are my own notes on English Literature for BCS. There probably
 			\item Paradise Regained
 		\end{itemize}
 	}}
-	\column{.45\textwidth}
+	\hspace{3mm}
+	\column{.4\textwidth}
 	 \fbox{\parbox{.9\textwidth}{
 	 	\textbf{Others:}\vspace{-3mm}
 		\begin{itemize}
