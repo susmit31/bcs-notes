@@ -188,8 +188,9 @@ What follows are my own notes on English Literature for BCS. There probably
 ```{=latex}
 \end{frame}
 
+\definecolor{springgreen}{RGB}{0, 255, 127}
 {
-\setbeamercolor{palette primary}{fg=black,bg=yellow}
+\setbeamercolor{palette primary}{fg=black,bg=springgreen}
 \begin{frame}[standout]
   Important Authors and Literary Works
 \end{frame}
@@ -238,22 +239,28 @@ What follows are my own notes on English Literature for BCS. There probably
 \begin{columns}[t, totalwidth=\textwidth]
 	\column{.45\textwidth}
 	\fbox{\parbox{.9\textwidth}{
+		\footnotesize
 		\textbf{Plays:}
 		\begin{itemize}
+			\tightlist
 			\item Dr Faustus
 			\item The Jew of Malta
 			\item You Can Never Tell
 			\item Tamburlaine the Great
 		\end{itemize}
+		\normalsize
 	}}
 	\column{.45\textwidth}
 	\fbox{\parbox{.9\textwidth}{
+		\footnotesize
 		\textbf{Poetry:}
 			\begin{itemize}
+				\tightlist
 				\item Pharsalia
 				\item The Passionate Shepherd to His Love
 				\item Amores
 			\end{itemize}
+		\normalsize
 	}}
 \end{columns}
 

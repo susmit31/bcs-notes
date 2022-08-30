@@ -4,8 +4,7 @@
 %
 \documentclass[
   12pt,
-  
-  progressbar=frametitle]{beamer}
+    progressbar=frametitle]{beamer}
 \usepackage{pgfpages}
 \setbeamertemplate{caption}[numbered]
 \setbeamertemplate{caption label separator}{: }
@@ -456,8 +455,9 @@ anything that doesn't). Let me know of the errors.
 
 \end{frame}
 
+\definecolor{springgreen}{RGB}{0, 255, 127}
 {
-\setbeamercolor{palette primary}{fg=black,bg=yellow}
+\setbeamercolor{palette primary}{fg=black,bg=springgreen}
 \begin{frame}[standout]
   Important Authors and Literary Works
 \end{frame}
@@ -550,22 +550,28 @@ anything that doesn't). Let me know of the errors.
 \begin{columns}[t, totalwidth=\textwidth]
     \column{.45\textwidth}
     \fbox{\parbox{.9\textwidth}{
+        \footnotesize
         \textbf{Plays:}
         \begin{itemize}
+            \tightlist
             \item Dr Faustus
             \item The Jew of Malta
             \item You Can Never Tell
             \item Tamburlaine the Great
         \end{itemize}
+        \normalsize
     }}
     \column{.45\textwidth}
     \fbox{\parbox{.9\textwidth}{
+        \footnotesize
         \textbf{Poetry:}
             \begin{itemize}
+                \tightlist
                 \item Pharsalia
                 \item The Passionate Shepherd to His Love
                 \item Amores
             \end{itemize}
+        \normalsize
     }}
 \end{columns}
 
