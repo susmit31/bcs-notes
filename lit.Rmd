@@ -317,10 +317,9 @@ What follows are my own notes on English Literature for BCS. There probably
 - "A great master of verse in the Puritan period"
 - Notable works:
 
-\vspace{3mm}
 \footnotesize
-\begin{columns}[T, totalwidth=.9\textwidth]
-	\hspace{5mm}
+\begin{columns}[T, totalwidth=.93\textwidth]
+	\hspace{4mm}
 	\column{.4\textwidth}
 	\fbox{\parbox{.9\textwidth}{
 	 \textbf{Epic:}\vspace{-3mm}
@@ -330,7 +329,6 @@ What follows are my own notes on English Literature for BCS. There probably
 			\item Paradise Regained
 		\end{itemize}
 	}}
-	\hspace{3mm}
 	\column{.4\textwidth}
 	 \fbox{\parbox{.9\textwidth}{
 	 	\textbf{Others:}\vspace{-3mm}
