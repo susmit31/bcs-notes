@@ -124,6 +124,7 @@ What follows are my own notes on English Literature for BCS. There probably
 - **Augustan** (1700-1745)
 	- Alexander Pope
 	- Jonathan Swift
+	- Daniel Defoe
 - **Sensibility / Johnson** (1745-1785)
 	- Henry Fielding
 	- Edmund Burke
@@ -237,7 +238,7 @@ What follows are my own notes on English Literature for BCS. There probably
 
 - **"Poet of poets"**
 - Famous poems:
-	- The Faerie Queen (epic)
+	- The Faerie Queen (epic, allegory)
 	- Amoretti (sonnets)
 	- Colin Clouts Came Home Again
 	- Mother Hubberd's Tale
@@ -339,6 +340,14 @@ What follows are my own notes on English Literature for BCS. There probably
 }}
 
 
+\blockhead{John Webster}
+
+- Poet
+- Notable works:
+	- The Duchess of Malfi
+	- The White Devil
+	- The Devil's Law Case
+
 # Commonwealth Period
 
 \blockhead{Andrew Marvell}
@@ -354,6 +363,12 @@ What follows are my own notes on English Literature for BCS. There probably
 
 - **Political philosopher**
 - Notable work: **Leviathan**
+
+\blockhead{Jeremy Taylor}
+- English cleric
+- Notable works:
+	- Holy Living
+	- Holy Dying
 
 \blockhead{John Milton}
 
@@ -442,4 +457,37 @@ What follows are my own notes on English Literature for BCS. There probably
 - English novelist
 - Notable works: Hudibras (famous satire in verse)
 
+\blockhead{John Bunyan}
 
+- English writer and Puritan preacher
+- Notable works:
+	- **The Pilgrim's Progress** (an allegory)
+
+# Augustan Period
+
+\blockhead{Alexander Pope}
+
+- **Mock heroic poet**
+- Notable works:
+	- An Essay on Criticism
+	- The Dunciad
+	- The Imitation of Horace
+	- An Essay on Man
+	- Letter to Gay
+	- The Rape of the Lock (epic)
+
+\blockhead{Jonathan Swift}
+
+- **Greatest satirist of 18th century**
+- Notable works:
+	- Gulliver's travels
+	- A Tale of A Tub
+	- The Battle of the Books
+	- A Modest Proposal
+	- A Journey to Stella
+
+\blockhead{Daniel Defoe}
+
+- Notable works:
+	- Novels: Captain Singleton, Robinson Crusoe
+	- Poem: The True-Born Englishman
