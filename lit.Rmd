@@ -199,11 +199,11 @@ What follows are my own notes on English Literature for BCS. There probably
 \begin{frame}<0>
 ```
 # The Firsts
-- **Tragedy**: **Gorboduc** (authors: Thomas Norton and Thomas
+- **Tragedy:** **Gorboduc** (authors: Thomas Norton and Thomas
  Sackville)
-- **Comedy**: **Ralph Roister Doister** (Nicholas Udall)
-- **Novel**: **Pamela; Virtue Rewarded** (Samuel Richardson)
-- **Revenge tragedy**: **The Spanish Tragedy** (Thomas Kyd) 
+- **Comedy:** **Ralph Roister Doister** (Nicholas Udall)
+- **Novel:** **Pamela; Virtue Rewarded** (Samuel Richardson)
+- **Revenge tragedy:** **The Spanish Tragedy** (Thomas Kyd) 
 
 # Middle English Period
 \blockhead{Geoffrey Chaucer}
