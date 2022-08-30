@@ -296,10 +296,45 @@ What follows are my own notes on English Literature for BCS. There probably
 	- An Apology for Poetry
 
 
+# Jacobean Period
+
+\blockhead{John Donne}
+
+- One of the **metaphysical poets**, others are: Henry Vaughan, Andrew
+ Marvell, John Cleveland, Abraham Cowley, George Herbert, Richard Crashaw
+- Other epithets: **"poet of love", "religious poet"**
+- Notable works:
+
+\hspace{6mm}
+\fbox{\parbox{.7\textwidth}{
+	\footnotesize
+	\vspace{-2mm}
+	\begin{columns}[T, totalwidth=.75\textwidth]
+	\hspace{-3mm}
+	\column{.35\textwidth}
+		\begin{itemize}\tightlist
+			\item The Good Morrow
+			\item The Sun Rising
+			\item The Canonization
+			\item Twicknam Garden
+			\item For Whom the Bell Tolls
+		\end{itemize}
+	\column{.4\textwidth}
+		\begin{itemize}\tightlist
+			\item The Anatomy of the world
+			\item The Frea
+			\item The Ecstasy
+			\item The Funeral
+		\end{itemize}
+	\end{columns}
+}}
+
+
 # Commonwealth Period
 
 \blockhead{Andrew Marvell}
 
+- One of the **metaphysical poets**
 - Notable works:
 	- To His Coy Mistress
 	- The Definition of Love
