@@ -487,6 +487,7 @@ What follows are my own notes on English Literature for BCS. There probably
 	- Letter to Gay
 	- The Rape of the Lock (epic)
 
+\vspace{15mm}
 \blockhead{Jonathan Swift}
 
 - **Greatest satirist of 18th century**
@@ -497,6 +498,7 @@ What follows are my own notes on English Literature for BCS. There probably
 	- A Modest Proposal
 	- A Journey to Stella
 
+\vspace{15mm}
 \blockhead{Daniel Defoe}
 
 - Notable works:
