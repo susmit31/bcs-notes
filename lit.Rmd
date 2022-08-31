@@ -513,7 +513,7 @@ What follows are my own notes on English Literature for BCS. There probably
 			\item Lycidas (a pastoral elegy, written on the death of Edward
 			 King, friend of Milton)
 			\item Of Education
-			\item Areopagitica
+			\item Areopagitica (pamphlet)
 		\end{itemize}
 	}}
 \end{columns}
