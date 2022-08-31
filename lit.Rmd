@@ -302,6 +302,15 @@ What follows are my own notes on English Literature for BCS. There probably
 - Notable works: **Vision of Piers Plowman** (_first great English satire_)
 - Important quotes: _"Who will bell the cat?"_
 
+\blockhead{Dante}
+
+- Epithets: 
+	- **Father of the Italian language**
+	- **Supreme poet of Italy**
+- Notable works:
+	- **Inferno** (poem)
+	- **The Divine Comedy** (epic)
+
 ```{=latex}
 \end{frame}
 \outstandingmove{The Renaissance}
