@@ -334,6 +334,9 @@ What follows are my own notes on English Literature for BCS. There probably
 \begin{frame}<0>
 ```
 
+(\scriptsize\href{https://youtube.com/playlist?list=PL35b_WFpfhcbfCg0xUOjImc-eGDxu3Imf}
+ {Playlist covering these (and more!) in detail})
+
 # Elizabethan Period
 \blockhead{Edmund Spenser}
 
