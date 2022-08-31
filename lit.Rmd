@@ -80,6 +80,10 @@ What follows are my own notes on English Literature for BCS. There probably
 }}
 
 # Renaissance (1500-1660)
+
+\scriptsize(\href{https://youtube.com/playlist?list=PL35b_WFpfhcbfCg0xUOjImc-eGDxu3Imf}
+ {Playlist covering these (and more!) in detail})\normalsize\vspace{-2mm}
+
 - **4 subperiods:**
 	- **Mnemonic:** \btx{লিজা যাবে} car-\btx{এ করে} 
 - **Elizabethan** (1558-1603)
@@ -333,9 +337,6 @@ What follows are my own notes on English Literature for BCS. There probably
 \outstandingmove{The Renaissance}
 \begin{frame}<0>
 ```
-
-(\scriptsize\href{https://youtube.com/playlist?list=PL35b_WFpfhcbfCg0xUOjImc-eGDxu3Imf}
- {Playlist covering these (and more!) in detail})
 
 # Elizabethan Period
 \blockhead{Edmund Spenser}
