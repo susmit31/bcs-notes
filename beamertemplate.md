@@ -19,11 +19,11 @@ header-includes:
   - \setlistdepth{20}
   - \renewlist{itemize}{itemize}{20}
   - \renewlist{enumerate}{enumerate}{20}
-  - \setlist[itemize]{label=$*$}
+  - \setlist[itemize]{label=$\boldsymbol\hookrightarrow$, leftmargin=5mm}
   - \setlist[itemize,1]{label=\tiny$\blacksquare$}
   - \setlist[itemize,2]{label=$\bullet$}
   - \setlist[itemize,3]{label=$\boldsymbol\circ$}
-  - \setlist[itemize,4]{label=$*$}
+  - \setlist[itemize,4]{label=$\boldsymbol\hookrightarrow$, leftmargin=5mm}
   - \linespread{1.3}
   - \setlength{\fboxsep}{10pt}
 ---
