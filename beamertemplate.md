@@ -27,6 +27,7 @@ header-includes:
   - \linespread{1.3}
   - \setlength{\fboxsep}{10pt}
   - \newcommand{\blockhead}[1]{\large\textbf{#1}\normalsize\vspace{-3mm}}
+  - \newcommand{\btx}[1]{\footnotesize\banglatext{#1}\;\normalsize}
 ---
 # Preface {-}
 What follows are my own notes on DOCTITLE. There probably
