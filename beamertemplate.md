@@ -26,6 +26,7 @@ header-includes:
   - \setlist[itemize,4]{label=$\boldsymbol\hookrightarrow$, leftmargin=5mm}
   - \linespread{1.3}
   - \setlength{\fboxsep}{10pt}
+  - \newcommand{\blockhead}[1]{\large\textbf{#1}\normalsize\vspace{-3mm}}
 ---
 # Preface {-}
 What follows are my own notes on DOCTITLE. There probably
