@@ -231,10 +231,10 @@ What follows are my own notes on English Literature for BCS. There probably
 
 \scriptsize(A really good exposition in video format on the Old and Middle
  English periods  \href{https://youtu.be/sYLopdePO2A}{can be found here})
-\normalsize
+\normalsize\vspace{-3mm}
 
 - Most famous work of the Old English period: **Beowulf**
-	- Epic poem
+	- Epic poem (**first English epic**)
 	- Author was anonymous
 	- **$\boldsymbol\approx \textbf{3200}$ lines**
 
@@ -297,7 +297,8 @@ What follows are my own notes on English Literature for BCS. There probably
 - English theologian, philosopher etc
 - **First translated the Bible from Latin**
 - Epithets:
-	- **"Father of English Prose"**
+	- **"Father of English Prose"** (_founder_ of English prose $\rightarrow$
+	 Alfred the Great, father of _modern_ English prose $\rightarrow$ F. Bacon)
 	- Morning star of reformation
 	- Evening star of scholasticism
 
