@@ -85,9 +85,9 @@ What follows are my own notes on English Literature for BCS. There probably
 	- Replete with lyrics and songs
 	- **Golden age of English drama/literature**
 	- **Famous authors:** (Mnemonic: \banglatext{লিলি মার সাথে ফ্রান্স স্পেনে ঘুরছে})
-		- Christopher Marlowe and other **"University Wits"**:
+		- **"University Wits"**:
 		 (Mnemonic: \banglatext{মার ঘরে ছেলে পেলে নাচে আর ললি খায়})
-		 	- \banglatext{মার} $\rightarrow$ _Marlowe_
+		 	- \banglatext{মার} $\rightarrow$ **Christopher _Marlowe_**
 			- \banglatext{ঘরে} $\rightarrow$ Robert _Greene_
 		 	- \banglatext{ছেলে} $\rightarrow$ Thomas _Kyd_
 			- \banglatext{পেলে} $\rightarrow$ George _Peele_
