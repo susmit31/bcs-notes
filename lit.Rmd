@@ -69,7 +69,7 @@ What follows are my own notes on English Literature for BCS. There probably
  \item \textbf{Geoffrey Chaucer} aka \textit{father of English poetry}
  \item William Langland
  \item Thomas Malory
- \item Robert Henryson
+ \item John Gower
 
 \end{itemize}	
 }}
@@ -310,6 +310,14 @@ What follows are my own notes on English Literature for BCS. There probably
 - Notable works:
 	- **Inferno** (poem)
 	- **The Divine Comedy** (epic)
+
+\blockhead{John Gower}
+
+- Notable works:
+	- Speculum Homms / Speculum Meditantis
+	- Vox Clamantis
+	- Confessio Amantis
+
 
 ```{=latex}
 \end{frame}
