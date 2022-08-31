@@ -517,6 +517,7 @@ What follows are my own notes on English Literature for BCS. There probably
 	- A Modest Proposal
 	- A Journey to Stella
 
+\vspace{15mm}
 \blockhead{Daniel Defoe}
 
 - Notable works:
@@ -573,5 +574,6 @@ What follows are my own notes on English Literature for BCS. There probably
 	- The Good-Natured Man
 	- She Stoops to Conquer
 
+\vspace{15mm}
 \blockhead{Thomas Gray}
 - Notable works: Elegy Written in a Country Churchyard
