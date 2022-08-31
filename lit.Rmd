@@ -10,6 +10,7 @@ output:
 theme: metropolis
 classoption: progressbar=frametitle
 fontsize: 12pt
+urlcolor: blue
 header-includes:
   - \setbeamersize{text margin left=10mm,text margin right=10mm}
   - \makeatletter
@@ -59,9 +60,11 @@ What follows are my own notes on English Literature for BCS. There probably
 	- Epic poem
 	- Author was anonymous
 	- **$\boldsymbol\approx \textbf{3200}$ lines**
-- Famous author: **Caedmon**
-	- Earliest known English poet
-	- Sole surviving work: **Caedmon's Hymn** (poem)
+- Famous authors:
+	- Caedmon: **Earliest known English poet**
+	- Cynewulf
+	- St. Venerable Bede
+	- Alfred the Great
 
 
 # Middle English (1066-1500)
@@ -218,6 +221,49 @@ What follows are my own notes on English Literature for BCS. There probably
 - **Comedy:** **Ralph Roister Doister** (Nicholas Udall)
 - **Novel:** **Pamela; Virtue Rewarded** (Samuel Richardson)
 - **Revenge tragedy:** **The Spanish Tragedy** (Thomas Kyd) 
+
+# Old English Period
+
+\footnotesize(A really good exposition in video format on the Old and Middle
+ English periods  \href{https://youtu.be/sYLopdePO2A}{can be found here})
+\normalsize
+
+\blockhead{Caedmon}
+- **First known English poet**
+- Epithets: _father of English sacred songs_, _Milton of Anglo-Saxon
+ period_
+- Notable works:
+	- **Paraphrase**
+	- **Caedmon's Hymn** (poem)
+	- Genesis
+	- Exodus
+	- Judith
+
+\blockhead{Cynewulf}
+
+- Epithet: **author of Christ**
+- Notable works:
+	- Juliana
+	- The Fates of the Apostles
+	- Christ
+	- Elene
+
+\blockhead{St. Venerable Bede}
+- Epithets:
+	- Father of English learning
+	- First historian in English language
+	- Doctor of the Church
+- Notable works:
+	- An Ecclesiastical History of the English People (book for which he got
+	 "Doc of the Church" epithet)
+
+\blockhead{King Alfred the Great}
+
+- **_Founder_ of English prose** (_father_ of English prose = Wycliffe,
+ _father_ of _modern_ English prose = Francis Bacon)
+- Notable works:
+	- **Anglo-Saxon Chronicle** ("first monument in the English prose")
+
 
 # Middle English Period
 \blockhead{Geoffrey Chaucer}
