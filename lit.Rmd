@@ -37,7 +37,7 @@ What follows are my own notes on English Literature for BCS. There probably
  verify anything that seems off (or better, even anything that doesn't).
  Let me know of the errors.
 
- It's a work in progress, and make sure you're reading the latest version,
+ It's a work in progress, so make sure you're reading the latest version,
  which you can \href{https://github.com/susmit31/bcs-notes/raw/master/pdfs/lit.pdf}
  {fetch from here}.
 
