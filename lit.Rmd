@@ -87,11 +87,14 @@ What follows are my own notes on English Literature for BCS. There probably
 	- **Famous authors:**
 		- Mnemonic: \banglatext{লিলি মার সাথে ফ্রান্স স্পেনে ঘুরছে}
 		- Christopher Marlowe and other _"University Wits"_:
-			- Robert Greene
-			- Thomas Nashe
-			- Thomas Lodge
-			- George Peele
-			- John Lyly
+		 (Mnemonic: \banglatext{মার ঘরে ছেলে পেলে নাচে আর ললি খায়})
+		 	- \banglatext{মার} $\rightarrow$ _Marlowe_
+			- \banglatext{ঘরে} $\rightarrow$ Robert _Greene_
+		 	- \banglatext{ছেলে} $\rightarrow$ Thomas _Kyd_
+			- \banglatext{পেলে} $\rightarrow$ George _Peele_
+			- \banglatext{নাচে} $\rightarrow$ Thomas _Nashe_
+			- \banglatext{ল} $\rightarrow$ Thomas _Lodge_
+			- \banglatext{লি} $\rightarrow$ John _Lyly_
 		- Shakespeare
 		- Francis Bacon
 		- Edmund Spenser
