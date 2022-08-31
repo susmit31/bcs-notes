@@ -56,10 +56,6 @@ What follows are my own notes on English Literature for BCS. There probably
 	- Postmodern / contemporary
 
 # Old English (450-1066)
-- Most famous work: **Beowulf**
-	- Epic poem
-	- Author was anonymous
-	- **$\boldsymbol\approx \textbf{3200}$ lines**
 - Famous authors:
 	- Caedmon: **Earliest known English poet**
 	- Cynewulf
@@ -71,6 +67,7 @@ What follows are my own notes on English Literature for BCS. There probably
 \fbox{\parbox{.9\textwidth}{\textbf{Famous authors:}
 \begin{itemize}
  \item \textbf{Geoffrey Chaucer} aka \textit{father of English poetry}
+ \item William Langland
  \item Thomas Malory
  \item Robert Henryson
 
@@ -224,9 +221,15 @@ What follows are my own notes on English Literature for BCS. There probably
 
 # Old English Period
 
-\footnotesize(A really good exposition in video format on the Old and Middle
+\scriptsize(A really good exposition in video format on the Old and Middle
  English periods  \href{https://youtu.be/sYLopdePO2A}{can be found here})
 \normalsize
+
+- Most famous work of the Old English period: **Beowulf**
+	- Epic poem
+	- Author was anonymous
+	- **$\boldsymbol\approx \textbf{3200}$ lines**
+
 
 \blockhead{Caedmon}
 - **First known English poet**
@@ -268,17 +271,36 @@ What follows are my own notes on English Literature for BCS. There probably
 # Middle English Period
 \blockhead{Geoffrey Chaucer}
 
+- Epithets:
+	- _"The morning star of English literature/renaissance"_
+	- **Father of modern poetry**
+	- First humourist in English literature
 - Notable works:
-	- The Canterbury Tales
-	- The Nun Priest's Tale
-	- The Parliament of Fowls
+	- **The Canterbury Tales**
+	- **The Nun's Priest's Tale**
+	- **Troilus and Criseyde**
+	- The Parliament of Fowls/Birds
+	- The House of Fame
 	- The Legend of Good Women
+- Important quotes: _"Time and tide wait for no man"_
 
 \blockhead{John Wycliffe}
 
 - English theologian, philosopher etc
 - **First translated the Bible from Latin**
-- **"Father of English Prose"**
+- Epithets:
+	- **"Father of English Prose"**
+	- Morning star of reformation
+	- Evening star of scholasticism
+
+\blockhead{Sir Thomas Mallory}
+
+- Notable works: **Morte d' Arthur** (first romance in prose)
+
+\blockhead{William Langland}
+
+- Notable works: **Vision of Piers Plowman** (_first great English satire_)
+- Important quotes: _"Who will bell the cat?"_
 
 ```{=latex}
 \end{frame}
