@@ -29,6 +29,7 @@ header-includes:
   - \linespread{1.3}
   - \setlength{\fboxsep}{10pt}
   - \newcommand{\blockhead}[1]{\large\textbf{#1}\normalsize\vspace{-3mm}}
+  - \newcommand{\btx}[1]{\footnotesize\banglatext{#1}\;\normalsize}
 ---
 # Preface {-}
 What follows are my own notes on English Literature for BCS. There probably
@@ -48,7 +49,7 @@ What follows are my own notes on English Literature for BCS. There probably
 \hfill \today
 
 # Periods of English Literature
-- **Mnemonic:** \banglatext{অমি রান্না নিয়ে রুমি ভাই এর মন পেল}
+- **Mnemonic:** \btx{অমি রান্না নিয়ে রুমি ভাই এর মন পেল}
 	- Old age / Anglo-Saxon period
 	- Middle age
 	- Renaissance
@@ -80,20 +81,21 @@ What follows are my own notes on English Literature for BCS. There probably
 
 # Renaissance (1500-1660)
 - **4 subperiods:**
-	- **Mnemonic:** \banglatext{লিজা যাবে} car-\banglatext{এ করে} 
+	- **Mnemonic:** \btx{লিজা যাবে} car-\btx{এ করে} 
 - **Elizabethan** (1558-1603)
 	- Replete with lyrics and songs
 	- **Golden age of English drama/literature**
-	- **Famous authors:** (Mnemonic: \banglatext{লিলি মার সাথে ফ্রান্স স্পেনে ঘুরছে})
+	- **Famous authors:** (Mnemonic: \footnotesize
+	\btx{লিলি মার সাথে ফ্রান্স স্পেনে ঘুরছে}\normalsize)
 		- **"University Wits"**:
-		 (Mnemonic: \banglatext{মার ঘরে ছেলে পেলে নাচে আর ললি খায়})
-		 	- \banglatext{মার} $\rightarrow$ **Christopher _Marlowe_**
-			- \banglatext{ঘরে} $\rightarrow$ Robert _Greene_
-		 	- \banglatext{ছেলে} $\rightarrow$ Thomas _Kyd_
-			- \banglatext{পেলে} $\rightarrow$ George _Peele_
-			- \banglatext{নাচে} $\rightarrow$ Thomas _Nashe_
-			- \banglatext{ল} $\rightarrow$ Thomas _Lodge_
-			- \banglatext{লি} $\rightarrow$ John _Lyly_
+		 (Mnemonic: \btx{মার ঘরে ছেলে পেলে নাচে আর ললি খায়})
+		 	- \btx{মার} $\rightarrow$ **Christopher _Marlowe_**
+			- \btx{ঘরে} $\rightarrow$ Robert _Greene_
+		 	- \btx{ছেলে} $\rightarrow$ Thomas _Kyd_
+			- \btx{পেলে} $\rightarrow$ George _Peele_
+			- \btx{নাচে} $\rightarrow$ Thomas _Nashe_
+			- \btx{ল} $\rightarrow$ Thomas _Lodge_
+			- \btx{লি} $\rightarrow$ John _Lyly_
 		- Shakespeare
 		- Francis Bacon
 		- Edmund Spenser
