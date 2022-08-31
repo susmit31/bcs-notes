@@ -194,8 +194,9 @@ What follows are my own notes on English Literature for BCS. There probably
 
 \newcommand{\outstandingmove}[1]{
 \definecolor{springgreen}{RGB}{0, 255, 127}
+\definecolor{blueviolet}{RGB}{138, 43, 162}
 {
-\setbeamercolor{palette primary}{fg=black,bg=springgreen}
+\setbeamercolor{palette primary}{fg=white,bg=blueviolet}
 \begin{frame}[standout]
  #1
 \end{frame}
@@ -356,6 +357,10 @@ What follows are my own notes on English Literature for BCS. There probably
 	- The White Devil
 	- The Devil's Law Case
 
+\blockhead{George Chapman}
+
+- Notable works: **first English translation of Homer's _Iliad_ and _Odyssey_**
+
 # Commonwealth Period
 
 \blockhead{Andrew Marvell}
@@ -395,7 +400,7 @@ What follows are my own notes on English Literature for BCS. There probably
 	 \textbf{Epic:}\vspace{-3mm}
 		\begin{itemize}
 			\tightlist
-			\item \textbf{Paradise Lost}
+			\item \textbf{Paradise Lost} (blank-verse epic poem)
 			\item Paradise Regained
 		\end{itemize}
 	}}
@@ -405,7 +410,8 @@ What follows are my own notes on English Literature for BCS. There probably
 		\begin{itemize}
 			\tightlist
 			\item Comus
-			\item Lycidas (an elegy)
+			\item Lycidas (a pastoral elegy, written on the death of Edward
+			 King, friend of Milton)
 			\item Of Education
 			\item Areopagitica
 		\end{itemize}
@@ -471,8 +477,15 @@ What follows are my own notes on English Literature for BCS. There probably
 \blockhead{John Bunyan}
 
 - English writer and Puritan preacher
+- Notable works: **The Pilgrim's Progress** (an allegory)
+
+\blockhead{John Locke}
+
+- English philosopher whose works lie at the _foundation of modern
+ philosophical empiricism and political liberalism_
 - Notable works:
-	- **The Pilgrim's Progress** (an allegory)
+	- An Essay Concerning Human Understanding
+	- Two Treatises of Government
 
 # Augustan Period
 
@@ -498,9 +511,14 @@ What follows are my own notes on English Literature for BCS. There probably
 	- A Modest Proposal
 	- A Journey to Stella
 
-\vspace{15mm}
 \blockhead{Daniel Defoe}
 
 - Notable works:
-	- Novels: Captain Singleton, Robinson Crusoe
+	- Novels:
+		- Captain Singleton
+		- Robinson Crusoe:
+			- Key characters: Crusoe, Friday
+		- Moll Flanders
+		- Colonel Jack
+		- Roxana: The Fortunate Mistress
 	- Poem: The True-Born Englishman
