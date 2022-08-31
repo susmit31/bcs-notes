@@ -105,6 +105,11 @@ What follows are my own notes on English Literature for BCS. There probably
 		- John Milton
 		- Robert Burton
 		- George Herbert
+		- _Cavalier poets_:
+			- Loyal poets to Charles I
+			- Richard Lovelace, Thomas Carew, Sir John Suckling, Edmund Waller,
+			 Robert Herrick
+
 - **Commonwealth** (1650-1660)
 	- John Milton
 	- Thomas Hobbes
@@ -125,6 +130,7 @@ What follows are my own notes on English Literature for BCS. There probably
 	- Alexander Pope
 	- Jonathan Swift
 	- Daniel Defoe
+	- Henry Fielding
 - **Sensibility / Johnson** (1745-1785)
 	- Henry Fielding
 	- Edmund Burke
@@ -522,3 +528,50 @@ What follows are my own notes on English Literature for BCS. There probably
 		- Colonel Jack
 		- Roxana: The Fortunate Mistress
 	- Poem: The True-Born Englishman
+
+\blockhead{Henry Fielding}
+
+- **Father of English novel**
+- Notable works:
+
+\vspace{-3mm}
+\begin{columns}[T, totalwidth=.9\textwidth]
+\footnotesize
+\hspace{5mm}\column{.4\textwidth}
+\fbox{\parbox{.9\textwidth}{
+	\textbf{Novels:}
+	\begin{itemize}\tightlist
+		\item \textbf{Tom Jones}
+		\item Amelia
+		\item Joseph Andrews
+		\item Jonathan Wilde
+		\item Top Secret
+	\end{itemize}	
+}}
+\column{.4\textwidth}
+\fbox{\parbox{.9\textwidth}{
+	\textbf{Play:}
+	\begin{itemize}\tightlist
+	\item Rape upon Rape
+	\item The Temple Beau
+	\item The Tragedy of Tragedies
+	\item The Modern Husband
+	\end{itemize}
+}}
+\end{columns}
+
+# Sensibility/Johnson Period
+
+\blockhead{Oliver Goldsmith}
+
+- Irish novelist, playwright, poet
+- Notable works:
+	- The Citizen of the World
+	- The Vicar of the Wakefield
+	- The Traveller
+	- The Deserted Village
+	- The Good-Natured Man
+	- She Stoops to Conquer
+
+\blockhead{Thomas Gray}
+- Notable works: Elegy Written in a Country Churchyard
