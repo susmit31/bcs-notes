@@ -397,9 +397,11 @@ What follows are my own notes on English Literature for BCS. There probably
 
 \blockhead{Christopher Marlowe}
 
-- "Shakespeare's most important predecessor"
-- "Greatest dramatist before Shakespeare"
-- **Father of English tragedy**
+- Epithets:
+	- **Father of English tragedy**
+	- **Father of English drama**
+	- "Shakespeare's most important predecessor"
+	- "Greatest dramatist before Shakespeare"
 - Notable works:
 
 \vspace{3mm}
