@@ -1,0 +1,18 @@
+l l l l
+Tragedy|Comedy|Historical|Poem
+\textbf{Hamlet}|\textbf{All's Well That Ends Well}|Henry IV Pt. 1|\textbf{Lover's complaint}
+\textbf{Romeo and Juliet}|\textbf{As You Like It}|Henry IV Pt. 2|\textbf{Passionate Pilgrim}
+\textbf{Julius Caesar}|\textbf{Comedy of Errors}|Henry V|\textbf{Phoenix and the Turtle}
+\textbf{Othello}|Love's Labour's Lost|Henry VI Pt. 1|\textbf{Rape of Lucrece}
+\textbf{King Lear}|\textbf{Measure for Measure}|Henry VI Pt. 2|\textbf{Venus and Adonis}
+\textbf{Macbeth}|\textbf{Merchant of Venice}|Henry VI Pt. 3|
+Titus Andronicus|Merry Wives of Windsor|Henry VIII|
+\textbf{Antony and Cleopatra}|\textbf{Midsummer Night's Dream}|King John|
+Troilus and Cressida|Much Ado About Nothing|Richard II|
+\textbf{Timon of Athens}|\textbf{Taming of the Shrew}|Richard III|
+Coriolanus|\textbf{The Tempest}||
+Cymbeline|\textbf{All's Well That Ends Well}||
+|Two Gentlemen of Verona||
+|Winter's Tale||
+|Pericles, Prince of Tyre||
+|Twelfth Night||
