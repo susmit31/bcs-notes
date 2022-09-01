@@ -11,6 +11,7 @@ theme: metropolis
 classoption: progressbar=frametitle
 fontsize: 12pt
 urlcolor: blue
+linkcolor: blue
 header-includes:
   - \setbeamersize{text margin left=10mm,text margin right=10mm}
   - \makeatletter
@@ -406,24 +407,25 @@ What follows are my own notes on English Literature for BCS. There probably
 - Notable works:
 
 \vspace{3mm}
-\begin{columns}[t, totalwidth=\textwidth]
+\begin{columns}[T, totalwidth=\textwidth]
+	\hspace{8mm}
 	\column{.45\textwidth}
-	\fbox{\parbox{.9\textwidth}{
-		\footnotesize
+	\fbox{\parbox{.95\textwidth}{
+		\scriptsize
 		\textbf{Plays:}
 		\begin{itemize}
 			\tightlist
 			\item \textbf{Dr Faustus}
-			\item \textbf{Tamburlaine the Great} (\btx{তৈমুর লঙ}\footnotesize)
+			\item \textbf{Tamburlaine the Great} (\banglatext{তৈমুর লঙ})
 			\item \textbf{Edward II}
 			\item The Jew of Malta (mnemonic: Malta \rightarrow Marlowe)
 			\item You Can Never Tell
 		\end{itemize}
 		\normalsize
 	}}
-	\column{.45\textwidth}
+	\column{.4\textwidth}
 	\fbox{\parbox{.9\textwidth}{
-		\footnotesize
+		\scriptsize
 		\textbf{Poetry:}
 			\begin{itemize}
 				\tightlist
