@@ -395,7 +395,7 @@ What follows are my own notes on English Literature for BCS. There probably
 	- Complaints
 	- Epithalamion
 
-\vspace{12mm}
+\vspace{15mm}
 \blockhead{Christopher Marlowe}
 
 - Epithets:
@@ -404,8 +404,8 @@ What follows are my own notes on English Literature for BCS. There probably
 	- "Greatest dramatist before Shakespeare"
 - Notable works:
 
-\vspace{-3mm}
-\begin{columns}[T, totalwidth=.95\textwidth]
+\vspace{3mm}
+\begin{columns}[t, totalwidth=.95\textwidth]
 	\hspace{3mm}
 	\column{.55\textwidth}
 	\fbox{\parbox{.95\textwidth}{
@@ -417,7 +417,6 @@ What follows are my own notes on English Literature for BCS. There probably
 			\item \textbf{Tamburlaine the Great} (\banglatext{তৈমুর লঙ})
 			\item \textbf{Edward II}
 			\item The Jew of Malta (mnemonic: Malta \rightarrow Marlowe)
-			\item You Can Never Tell
 		\end{itemize}
 		\normalsize
 	}}
@@ -435,7 +434,7 @@ What follows are my own notes on English Literature for BCS. There probably
 	}}
 \end{columns}
 
-
+\vspace{15mm}
 \blockhead{Shakespeare}
 
 - Birth: 1564, Death: 1616
