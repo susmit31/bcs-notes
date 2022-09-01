@@ -9,7 +9,7 @@ output:
   keep_tex: yes
 theme: metropolis
 classoption: progressbar=frametitle
-fontsize: 12pt
+fontsize: 11pt
 urlcolor: blue
 header-includes:
   - \setbeamersize{text margin left=10mm,text margin right=10mm}
@@ -395,7 +395,7 @@ What follows are my own notes on English Literature for BCS. There probably
 	- Complaints
 	- Epithalamion
 
-\vspace{15mm}
+\pagebreak
 \blockhead{Christopher Marlowe}
 
 - Epithets:
@@ -404,17 +404,16 @@ What follows are my own notes on English Literature for BCS. There probably
 	- "Greatest dramatist before Shakespeare"
 - Notable works:
 
-\vspace{3mm}
-\begin{columns}[t, totalwidth=.95\textwidth]
+\begin{columns}[T, totalwidth=.95\textwidth]
 	\hspace{3mm}
 	\column{.55\textwidth}
 	\fbox{\parbox{.95\textwidth}{
+		\footnotesize\textbf{Plays:}\vspace{-1mm}
 		\scriptsize
-		\textbf{Plays:}
 		\begin{itemize}
 			\tightlist
 			\item \textbf{Dr Faustus}
-			\item \textbf{Tamburlaine the Great} (\banglatext{তৈমুর লঙ})
+			\item \textbf{Tamburlaine the Great} (\tiny\banglatext{তৈমুর লঙ}\scriptsize)
 			\item \textbf{Edward II}
 			\item The Jew of Malta (mnemonic: Malta \rightarrow Marlowe)
 			\item You Can Never Tell
@@ -423,11 +422,10 @@ What follows are my own notes on English Literature for BCS. There probably
 	}}
 	\column{.3\textwidth}
 	\fbox{\parbox{.9\textwidth}{
+		\footnotesize\textbf{Poetry:}\vspace{-1mm}
 		\scriptsize
-		\textbf{Poetry:}
 			\begin{itemize}
-				\tightlist
-				\item \textbf{The Passionate Shepherd to His Love}
+				\item {\linespread{.2}\textbf{The Passionate Shepherd to His Love}}
 				\item Pharsalia
 				\item Amores
 			\end{itemize}
@@ -435,7 +433,7 @@ What follows are my own notes on English Literature for BCS. There probably
 	}}
 \end{columns}
 
-\vspace{15mm}
+\pagebreak
 \blockhead{Shakespeare}
 
 - Birth: 1564, Death: 1616
@@ -450,6 +448,7 @@ What follows are my own notes on English Literature for BCS. There probably
 	- Campaspe
 	- Sapho and Phao
 
+\pagebreak
 \blockhead{Sir Philip Sidney}
 
 - Notable works:
@@ -458,6 +457,7 @@ What follows are my own notes on English Literature for BCS. There probably
 	- **Astrophel and Stella** (sonnet)
 	- The Lady of May
 
+\pagebreak
 \blockhead{Francis Bacon}
 
 - Epithets:
@@ -510,8 +510,8 @@ What follows are my own notes on English Literature for BCS. There probably
 		\end{itemize}
 	\end{columns}
 }}
-\vspace{35mm}
 
+\pagebreak
 \blockhead{John Webster}
 
 - Poet
@@ -546,13 +546,11 @@ What follows are my own notes on English Literature for BCS. There probably
 	- Holy Living
 	- Holy Dying
 
+\pagebreak
 \blockhead{John Milton}
 
 - Famous **epic poet**
 - "A great master of verse in the Puritan period"
-
-\vspace{20mm}
-
 - Notable works:
 
 \footnotesize
@@ -560,7 +558,7 @@ What follows are my own notes on English Literature for BCS. There probably
 	\hspace{4mm}
 	\column{.4\textwidth}
 	\fbox{\parbox{.9\textwidth}{
-	 \textbf{Epic:}\vspace{-3mm}
+	 \textbf{Epic:}\vspace{-1mm}
 		\begin{itemize}
 			\tightlist
 			\item \textbf{Paradise Lost} (blank-verse epic poem)
@@ -569,7 +567,7 @@ What follows are my own notes on English Literature for BCS. There probably
 	}}
 	\column{.4\textwidth}
 	 \fbox{\parbox{.9\textwidth}{
-	 	\textbf{Others:}\vspace{-3mm}
+	 	\textbf{Others:}\vspace{-1mm}
 		\begin{itemize}
 			\tightlist
 			\item Comus
@@ -600,7 +598,7 @@ What follows are my own notes on English Literature for BCS. There probably
 	- The Double Dealer
 	- The Old Bachelor
 
-\vspace{10mm}
+\pagebreak
 \blockhead{John Dryden}
 
 - **Father of English criticism**
@@ -631,7 +629,7 @@ What follows are my own notes on English Literature for BCS. There probably
 	\end{columns}
 }}
 
-\vspace{15mm}
+\pagebreak
 \blockhead{Samuel Butler}
 
 - English novelist
@@ -663,7 +661,7 @@ What follows are my own notes on English Literature for BCS. There probably
 	- Letter to Gay
 	- The Rape of the Lock (epic)
 
-\vspace{15mm}
+\pagebreak
 \blockhead{Jonathan Swift}
 
 - **Greatest satirist of 18th century**
@@ -674,7 +672,7 @@ What follows are my own notes on English Literature for BCS. There probably
 	- A Modest Proposal
 	- A Journey to Stella
 
-\vspace{15mm}
+\pagebreak
 \blockhead{Daniel Defoe}
 
 - Notable works:
@@ -687,6 +685,7 @@ What follows are my own notes on English Literature for BCS. There probably
 		- Roxana: The Fortunate Mistress
 	- Poem: The True-Born Englishman
 
+\pagebreak
 \blockhead{Henry Fielding}
 
 - **Father of English novel**
@@ -731,7 +730,7 @@ What follows are my own notes on English Literature for BCS. There probably
 	- The Good-Natured Man
 	- She Stoops to Conquer
 
-\vspace{15mm}
+\pagebreak
 \blockhead{Thomas Gray}
 - Notable works: Elegy Written in a Country Churchyard
 
@@ -755,7 +754,7 @@ What follows are my own notes on English Literature for BCS. There probably
 - Buried: Apr 25, 1616
 - Marriage: 1582, to Anne Hathaway (8y elder than Shakes)
 
-\vspace{15mm}
+\pagebreak
 \blockhead{Literary Career}
 
 \vspace{2mm}
