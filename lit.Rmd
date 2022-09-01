@@ -89,6 +89,7 @@ What follows are my own notes on English Literature for BCS. There probably
 - **Elizabethan** (1558-1603)
 	- Replete with lyrics and songs
 	- **Golden age of English drama/literature**
+	- **Nest of singing birds**
 	- **Famous authors:** (Mnemonic: \footnotesize
 	\btx{লিলি মার সাথে ফ্রান্স স্পেনে ঘুরছে}\normalsize)
 		- **"University Wits"**:
@@ -227,7 +228,8 @@ What follows are my own notes on English Literature for BCS. There probably
 # The Firsts
 - **Tragedy:** **Gorboduc** (authors: Thomas Norton and Thomas
  Sackville)
-- **Comedy:** **Ralph Roister Doister** (Nicholas Udall)
+- **Comedy:** **Ralph Roister Doister** (Nicholas Udall) / **Gammer
+ Gurton's Needle**
 - **Novel:** **Pamela; Virtue Rewarded** (Samuel Richardson)
 - **Revenge tragedy:** **The Spanish Tragedy** (Thomas Kyd) 
 
@@ -337,19 +339,60 @@ What follows are my own notes on English Literature for BCS. There probably
 \outstandingmove{The Renaissance}
 \begin{frame}<0>
 ```
+# Preparatory Period for the Renaissance
+- _First fruit of renaissance_ $\rightarrow$ "Tottel's Miscellany:
+ Songs and Sonettes" (Henry Howard and Sir Thomas Wyatt)
+
+\vspace{-3mm}
+\blockhead{Sir Thomas More}
+
+- English lawyer and philosopher
+- Executed during Henry VIII's reign due to accusations of treason
+- Notable works:
+	- **Utopia** (1516)
+		- Written in Latin
+		- Criticism of renaissance English society
+
+\blockhead{Sir David Lindsay}
+
+- Notable works: **The Dream** (poetry)
+
+\blockhead{Nicholas Udall}
+
+- **Father of English Comedy**
+- Notable works:
+	- **Ralph Roister Doister**: _one of the first comedies_ in English
+	 literature, the other one being **Gammer Gurton's Needle**
+
+\blockhead{Henry Howard}
+
+- Earl of Surrey
+- **Father of blank verse**
+
+\blockhead{Sir Thomas Wyatt}
+
+- **First Sonneteer in English**
+
 
 # Elizabethan Period
 \blockhead{Edmund Spenser}
 
-- **"Poet of poets"**
+- Epithets:
+	- **Poet of poets**
+	- The child of renaissance / reformation
+	- Court poet
+	- The divine master / principal poet / prince of poet
 - Famous poems:
-	- The Faerie Queen (epic, allegory)
-	- Amoretti (sonnets)
+	- **The Faerie Queene** (epic, allegory)
+	- **Amoretti** (sonnets)
+	- **The Shepherd's Calendar** (first major work; dedicated to Sir Philip
+	 Sidney)
+	- **Astrophel** (elegy; on death of Sidney)
+	- **Four Hymns**
 	- Colin Clouts Came Home Again
 	- Mother Hubberd's Tale
 	- Complaints
 	- Epithalamion
-	- The Shepherd's Calendar
 
 
 \blockhead{Christopher Marlowe}
@@ -398,17 +441,28 @@ What follows are my own notes on English Literature for BCS. There probably
 
 - Notable works:
 	- Euphues ("bears the embryo of English novel")
+	- Midas
 	- Campaspe
 	- Sapho and Phao
-	- Midas
 
-\vspace{5mm}
 \blockhead{Sir Philip Sidney}
 
 - Notable works:
-	- Arcadia ("embryo of English novel")
+	- **Arcadia** ("embryo of English novel")
+	- **An Apology for Poetry** (literary criticism)
+	- **Astrophel and Stella** (sonnet)
 	- The Lady of May
-	- An Apology for Poetry
+
+\blockhead{Francis Bacon}
+
+- Epithets:
+	- **Father of modern English prose**
+	- The essayist
+- Notable works:
+	- \btx{নামের শুরুতে} Of \btx{ওয়ালা সব বই চোখ বুইজা} Francis Bacon \btx{দাগাইবি}
+	- Novum Organum (English: New Method)
+	- History of Life and Death
+	- The New Atlantis
 
 
 # Jacobean Period
