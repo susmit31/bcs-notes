@@ -753,7 +753,7 @@ What follows are my own notes on English Literature for BCS. There probably
 \vspace{15mm}
 \blockhead{Literary Career}
 
-\vspace{5mm}
+\vspace{2mm}
 \begin{columns}[T, totalwidth=.95\textwidth]
 \scriptsize
 \column{.3\textwidth}
@@ -800,7 +800,7 @@ What follows are my own notes on English Literature for BCS. There probably
 	\end{columns}
 }}
 
-\end{columns}
+\end{columns}\vspace{1mm}
 
 - Epithets:
 	- **Bard of Avon**
