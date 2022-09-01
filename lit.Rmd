@@ -750,22 +750,25 @@ What follows are my own notes on English Literature for BCS. There probably
 - Buried: Apr 25, 1616
 - Marriage: 1582, to Anne Hathaway (8y elder than Shakes)
 
-\blockhead{Literary Works}
+\vspace{15mm}
+\blockhead{Literary Career}
 
 \vspace{5mm}
-\fbox{\parbox{.4\textwidth}{
-	\footnotesize
+\begin{columns}[T, totalwidth=.8\textwidth]
+\scriptsize
+\column{.3\textwidth}
+\fbox{\parbox{\textwidth}{
 	\textbf{Statistics:}
-	\vspace{-3mm}
-	\begin{columns}[T, totalwidth=.4\textwidth]
-		\column{.3\textwidth}
-		\begin{itemize}\tightlist
-			\item Plays
-			\item Sonnets
-			\item Narrative poems
-			\item Acts in his plays
+	\vspace{-2mm}
+	\begin{columns}[T, totalwidth=\textwidth]
+		\column{.75\textwidth}
+		\begin{itemize}[leftmargin=1mm]\tightlist
+			\item[] Plays
+			\item[] Sonnets
+			\item[] Narrative poems
+			\item[] Acts in his plays
 		\end{itemize}
-		\column{.1\textwidth}
+		\column{.25\textwidth}
 		\begin{itemize}\tightlist
 			\item[] 37
 			\item[] 154
@@ -774,3 +777,33 @@ What follows are my own notes on English Literature for BCS. There probably
 		\end{itemize}
 	\end{columns}
 }}
+
+\column{.4\textwidth}
+\fbox{\parbox{\textwidth}{
+	\textbf{The Extremes}
+	\vspace{-2mm}
+	\begin{columns}[T, totalwidth=\textwidth]
+		\column{.5\textwidth}
+		\begin{itemize}[leftmargin=1mm]\tightlist
+			\item[] 1st staged play
+			\item[] Last play (swan song)
+			\item[] Shortest play
+			\item[] Longest play
+		\end{itemize}
+		\column{.5\textwidth}
+		\begin{itemize}\tightlist
+			\item[] Henry VI (Pt. 2)
+			\item[] The Tempest
+			\item[] The Comedy of Errors
+			\item[] Hamlet
+		\end{itemize}
+	\end{columns}
+}}
+
+\end{columns}
+
+- Epithets:
+	- **Bard of Avon**
+	- **King without a Crown**
+- Literary style: iambic pentameter (5 stressed syllables and 5 unstressed
+ syllables within each line)
