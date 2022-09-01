@@ -11,7 +11,6 @@ theme: metropolis
 classoption: progressbar=frametitle
 fontsize: 12pt
 urlcolor: blue
-linkcolor: blue
 header-includes:
   - \setbeamersize{text margin left=10mm,text margin right=10mm}
   - \setbeamertemplate{frametitle continuation}{- \usebeamerfont{frametitle}\insertcontinuationcount}

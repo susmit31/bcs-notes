@@ -11,7 +11,6 @@ theme: metropolis
 classoption: progressbar=frametitle
 fontsize: 12pt
 urlcolor: blue
-linkcolor: blue
 header-includes:
   - \setbeamersize{text margin left=10mm,text margin right=10mm}
   - \makeatletter
@@ -396,20 +395,19 @@ What follows are my own notes on English Literature for BCS. There probably
 	- Complaints
 	- Epithalamion
 
-
+\vspace{12mm}
 \blockhead{Christopher Marlowe}
 
 - Epithets:
-	- **Father of English tragedy**
-	- **Father of English drama**
+	- **Father of English tragedy/drama**
 	- "Shakespeare's most important predecessor"
 	- "Greatest dramatist before Shakespeare"
 - Notable works:
 
-\vspace{3mm}
-\begin{columns}[T, totalwidth=\textwidth]
-	\hspace{8mm}
-	\column{.45\textwidth}
+\vspace{-3mm}
+\begin{columns}[T, totalwidth=.95\textwidth]
+	\hspace{3mm}
+	\column{.55\textwidth}
 	\fbox{\parbox{.95\textwidth}{
 		\scriptsize
 		\textbf{Plays:}
@@ -423,7 +421,7 @@ What follows are my own notes on English Literature for BCS. There probably
 		\end{itemize}
 		\normalsize
 	}}
-	\column{.4\textwidth}
+	\column{.3\textwidth}
 	\fbox{\parbox{.9\textwidth}{
 		\scriptsize
 		\textbf{Poetry:}
@@ -442,7 +440,7 @@ What follows are my own notes on English Literature for BCS. There probably
 
 - Birth: 1564, Death: 1616
 - 37 plays, 154 sonnets
-- Discussed in detail in \hyperref[sec:shakes]{this section}.
+- Discussed in detail in \hyperlink{shakes}{this section}.
 
 \blockhead{John Lyly}
 
@@ -745,7 +743,7 @@ What follows are my own notes on English Literature for BCS. There probably
 ```
 # William Shakespeare
 
-\label{sec:shakes}
+\label{shakes}
 
 \scriptsize(\href{https://youtu.be/PnOMXg4RIQk}{Detailed video on Shakes})
 \normalsize
