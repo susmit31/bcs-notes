@@ -96,6 +96,7 @@
 \setbeamertemplate{frametitle continuation}{- \usebeamerfont{frametitle}\insertcontinuationcount/\the\numexpr\beamer@endpageofframe+1-\beamer@startpageofframe}
 \makeatother
 \usepackage{bangla}
+\usepackage{hyperref}
 \usepackage{enumitem}
 \setlistdepth{20}
 \renewlist{itemize}{itemize}{20}
@@ -946,7 +947,7 @@ Middle English periods
         \begin{itemize}
             \tightlist
             \item \textbf{Dr Faustus}
-            \item \textbf{Tamburlaine the Great} (\footnotesize\banglatext{তৈমুর লঙ}\;\normalsize)
+            \item \textbf{Tamburlaine the Great} (\footnotesize\banglatext{তৈমুর লঙ}\;\normalsize\footnotesize)
             \item \textbf{Edward II}
             \item The Jew of Malta (mnemonic: Malta \rightarrow Marlowe)
             \item You Can Never Tell
@@ -976,7 +977,7 @@ Middle English periods
 \item
   37 plays, 154 sonnets
 \item
-  Discussed in detail in \ref[sec:shakes]
+  Discussed in detail in \hyperref[sec:shakes]{this section}.
 \end{itemize}
 
 \large\textbf{John Lyly}\normalsize\vspace{-3mm}
@@ -1522,6 +1523,8 @@ Middle English periods
 \section{William Shakespeare}
 \begin{frame}[allowframebreaks]
 {William Shakespeare}
+\label{sec:shakes}
+
 \scriptsize(\href{https://youtu.be/PnOMXg4RIQk}{Detailed video on Shakes})
 \normalsize
 

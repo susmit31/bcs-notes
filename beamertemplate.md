@@ -15,6 +15,7 @@ header-includes:
   - \setbeamersize{text margin left=10mm,text margin right=10mm}
   - \setbeamertemplate{frametitle continuation}{- \usebeamerfont{frametitle}\insertcontinuationcount}
   - \usepackage{bangla}
+  - \usepackage{hyperref}
   - \usepackage{enumitem}
   - \setlistdepth{20}
   - \renewlist{itemize}{itemize}{20}

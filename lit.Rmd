@@ -17,6 +17,7 @@ header-includes:
   - \setbeamertemplate{frametitle continuation}{- \usebeamerfont{frametitle}\insertcontinuationcount/\the\numexpr\beamer@endpageofframe+1-\beamer@startpageofframe}
   - \makeatother
   - \usepackage{bangla}
+  - \usepackage{hyperref}
   - \usepackage{enumitem}
   - \setlistdepth{20}
   - \renewlist{itemize}{itemize}{20}
@@ -413,7 +414,7 @@ What follows are my own notes on English Literature for BCS. There probably
 		\begin{itemize}
 			\tightlist
 			\item \textbf{Dr Faustus}
-			\item \textbf{Tamburlaine the Great} (\btx{তৈমুর লঙ})
+			\item \textbf{Tamburlaine the Great} (\btx{তৈমুর লঙ}\footnotesize)
 			\item \textbf{Edward II}
 			\item The Jew of Malta (mnemonic: Malta \rightarrow Marlowe)
 			\item You Can Never Tell
@@ -439,7 +440,7 @@ What follows are my own notes on English Literature for BCS. There probably
 
 - Birth: 1564, Death: 1616
 - 37 plays, 154 sonnets
-- Discussed in detail in \ref[sec:shakes]
+- Discussed in detail in \hyperref[sec:shakes]{this section}.
 
 \blockhead{John Lyly}
 
@@ -741,6 +742,8 @@ What follows are my own notes on English Literature for BCS. There probably
 \begin{frame}<0>
 ```
 # William Shakespeare
+
+\label{sec:shakes}
 
 \scriptsize(\href{https://youtu.be/PnOMXg4RIQk}{Detailed video on Shakes})
 \normalsize
